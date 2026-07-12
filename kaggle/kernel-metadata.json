@@ -1,0 +1,15 @@
+{
+  "id": "YOUR_KAGGLE_USERNAME/netflix-v2",
+  "title": "netflix-v2",
+  "code_file": "netflix-v2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "ashishkumarak/netflix-reviews-playstore-daily-updated",
+    "anastasiapolitidou/corpus-classified"
+  ],
+  "kernel_sources": []
+}
