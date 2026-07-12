@@ -7,9 +7,6 @@
   "is_private": true,
   "enable_gpu": true,
   "enable_internet": true,
-  "dataset_sources": [
-    "ashishkumarak/netflix-reviews-playstore-daily-updated",
-    "anastasiapolitidou/corpus-classified"
-  ],
+  "dataset_sources": ["ashishkumarak/netflix-reviews-playstore-daily-updated"],
   "kernel_sources": []
 }
