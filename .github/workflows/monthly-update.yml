@@ -1,0 +1,61 @@
+name: Monthly SWOT refresh
+
+# Runs on the 1st of every month at 03:00 UTC, and can be started by hand.
+on:
+  schedule:
+    - cron: "0 3 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write          # allows the job to commit data.json back to the repo
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350     # generous: waits for the Kaggle run to finish
+    env:
+      KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+      KAGGLE_KEY:      ${{ secrets.KAGGLE_KEY }}
+      KERNEL: ${{ secrets.KAGGLE_USERNAME }}/netflix-v2   # <-- your notebook slug
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Kaggle CLI
+        run: pip install --quiet kaggle
+
+      - name: Trigger the Kaggle notebook run
+        # Pushes the kernel folder, which starts a fresh run on Kaggle's GPU.
+        # The attached dataset (daily-updated) is pulled automatically.
+        run: kaggle kernels push -p kaggle
+
+      - name: Wait for the run to finish
+        run: |
+          for i in $(seq 1 120); do          # up to 120 x 3 min = 6 h
+            STATUS=$(kaggle kernels status "$KERNEL" 2>/dev/null | tr -d '"' | awk '{print $NF}')
+            echo "[$i] status: $STATUS"
+            case "$STATUS" in
+              complete) echo "run finished"; exit 0 ;;
+              error|cancelAcknowledged) echo "run failed"; exit 1 ;;
+            esac
+            sleep 180
+          done
+          echo "timed out waiting for Kaggle"; exit 1
+
+      - name: Download the notebook output
+        run: |
+          rm -rf _out && mkdir _out
+          kaggle kernels output "$KERNEL" -p _out
+          test -f _out/data.json || { echo "data.json not found in output"; ls -la _out; exit 1; }
+
+      - name: Publish data.json
+        run: |
+          cp _out/data.json data.json
+          git config user.name  "reviewlens-bot"
+          git config user.email "actions@github.com"
+          git add data.json
+          git commit -m "Monthly data refresh $(date -u +%Y-%m-%d)" || echo "no changes"
+          git push
