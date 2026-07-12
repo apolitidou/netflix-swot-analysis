@@ -30,7 +30,10 @@ jobs:
       - name: Trigger the Kaggle notebook run
         # Pushes the kernel folder, which starts a fresh run on Kaggle's GPU.
         # The attached dataset (daily-updated) is pulled automatically.
-        run: kaggle kernels push -p kaggle
+        run: |
+            rm -rf krun && mkdir krun
+            kaggle kernels pull "$KERNEL" -p krun -m
+            kaggle kernels push -p krun
 
       - name: Wait for the run to finish
         run: |
