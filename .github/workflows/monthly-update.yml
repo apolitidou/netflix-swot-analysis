@@ -16,7 +16,7 @@ jobs:
     env:
       KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
       KAGGLE_KEY:      ${{ secrets.KAGGLE_KEY }}
-      KERNEL: ${{ secrets.KAGGLE_USERNAME }}/netflix-v2   # <-- your notebook slug
+      KERNEL: ${{ secrets.KAGGLE_USERNAME }}/netflix-v2
     steps:
       - uses: actions/checkout@v4
 
