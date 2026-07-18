@@ -1,0 +1,1085 @@
+{
+  "generated_at": "2026-07-18 18:37 UTC",
+  "meta": {
+    "total_reviews": 110263,
+    "total_opinions": 278536,
+    "avg_rating": 2.84,
+    "positive_share_pct": 41.9,
+    "coverage_pct": 98.8,
+    "macro_f1": 0.0
+  },
+  "history": [
+    {
+      "total_reviews": 124313,
+      "avg_rating": 2.82,
+      "positive_share_pct": 41.4
+    },
+    {
+      "total_reviews": 125436,
+      "avg_rating": 2.83,
+      "positive_share_pct": 41.5
+    },
+    {
+      "total_reviews": 127182,
+      "avg_rating": 2.82,
+      "positive_share_pct": 41.5
+    },
+    {
+      "total_reviews": 128769,
+      "avg_rating": 2.83,
+      "positive_share_pct": 41.6
+    },
+    {
+      "total_reviews": 130014,
+      "avg_rating": 2.83,
+      "positive_share_pct": 41.7
+    },
+    {
+      "total_reviews": 131324,
+      "avg_rating": 2.83,
+      "positive_share_pct": 41.8
+    }
+  ],
+  "quadTotals": {
+    "Strength": 50829,
+    "Weakness": 70599,
+    "Opportunity": 27819,
+    "Threat": 22255
+  },
+  "topics": [
+    {
+      "id": "s1",
+      "quad": "Strength",
+      "name": "Recommend download Disney plus",
+      "phrase": "recommend download | disney plus | good recommend | recommend | good application | recommend friend",
+      "mentions": 1717,
+      "avgRating": 4.5,
+      "trend": "STABLE",
+      "prio": "HIGH",
+      "insight": "Reviewers consistently praise recommend download and disney plus, citing it as a key reason for keeping the app.",
+      "quotes": [
+        [
+          1,
+          "i love netflix it is a great app",
+          "Feb 2023"
+        ],
+        [
+          5,
+          "netflix is the best movie app ever!!",
+          "Feb 2020"
+        ],
+        [
+          3,
+          "netflix is a great app ive been using for years",
+          "Jul 2021"
+        ],
+        [
+          5,
+          "netflix is a great movie app i love netflix i always watch netflix 24 7",
+          "Jan 2025"
+        ],
+        [
+          4,
+          "netflix is a great app, i love the variety of different types of tv shows and movies",
+          "Jul 2020"
+        ],
+        [
+          4,
+          "the netflix app is very good app",
+          "May 2025"
+        ]
+      ]
+    },
+    {
+      "id": "s2",
+      "quad": "Strength",
+      "name": "Cinema Film good",
+      "phrase": "cinema | film good | film love | film like | film amazing | film",
+      "mentions": 997,
+      "avgRating": 4.6,
+      "trend": "STABLE",
+      "prio": "HIGH",
+      "insight": "Reviewers consistently praise cinema and film good, citing it as a key reason for keeping the app.",
+      "quotes": [
+        [
+          5,
+          "this is very good app and there are soo many movies to watch in here worth it",
+          "Apr 2025"
+        ],
+        [
+          5,
+          "the best app for movies i love it",
+          "Mar 2024"
+        ],
+        [
+          3,
+          "its a nice app bt some of the movies like myself",
+          "May 2022"
+        ],
+        [
+          5,
+          "i love this app as i love watching movies",
+          "Jul 2026"
+        ],
+        [
+          5,
+          "this is a very interesting app because it has all the movies that i want to watch",
+          "Jun 2020"
+        ],
+        [
+          4,
+          "very good app with plenty of movies",
+          "Dec 2020"
+        ]
+      ]
+    },
+    {
+      "id": "s3",
+      "quad": "Strength",
+      "name": "Star Star star",
+      "phrase": "star | star star | star actually | definitely star | star help | star great",
+      "mentions": 669,
+      "avgRating": 3.7,
+      "trend": "STABLE",
+      "prio": "MEDIUM",
+      "insight": "Reviewers consistently praise star and star star, citing it as a key reason for keeping the app.",
+      "quotes": [
+        [
+          3,
+          "i would have given 5 stars",
+          "Jan 2020"
+        ],
+        [
+          5,
+          "so i rate it a 5 star",
+          "May 2020"
+        ],
+        [
+          4,
+          "i'd give it 5 stars",
+          "May 2020"
+        ],
+        [
+          2,
+          "i would actually rate this a 5 star",
+          "Aug 2022"
+        ],
+        [
+          5,
+          "i could just say 5 stars",
+          "Jan 2021"
+        ],
+        [
+          4,
+          "i could give a five star",
+          "Nov 2020"
+        ]
+      ]
+    },
+    {
+      "id": "s4",
+      "quad": "Strength",
+      "name": "Vampire diary Favorite like",
+      "phrase": "vampire diary | favorite like | recommend good | vampire | good recommend | addictive",
+      "mentions": 473,
+      "avgRating": 4.4,
+      "trend": "FALLING",
+      "prio": "LOW",
+      "insight": "Reviewers consistently praise vampire diary and favorite like, citing it as a key reason for keeping the app.",
+      "quotes": [
+        [
+          5,
+          "i love this app, it has my favorite shows and it's fun to watch",
+          "Apr 2022"
+        ],
+        [
+          5,
+          "this is a superb app that features plenty of good shows",
+          "Jul 2021"
+        ],
+        [
+          5,
+          "this app is the best thing ever you can watch so meney shows on it",
+          "Jul 2020"
+        ],
+        [
+          5,
+          "its a good app so many mvoies and shows to watch",
+          "Feb 2021"
+        ],
+        [
+          5,
+          "great app me and my family have used this app for over 9 years i just whis new shows get put on there soon",
+          "Nov 2020"
+        ],
+        [
+          5,
+          "i love this app it is really interesting all the tv show are interesting and the most interesting of it all is that they are in full time play",
+          "Dec 2023"
+        ]
+      ]
+    },
+    {
+      "id": "s5",
+      "quad": "Strength",
+      "name": "Download offline Offline viewing",
+      "phrase": "download offline | offline viewing | offline download | download later | internet download | use download",
+      "mentions": 453,
+      "avgRating": 3.8,
+      "trend": "STABLE",
+      "prio": "LOW",
+      "insight": "The app allows users to download movies and TV shows for offline viewing, ensuring uninterrupted access regardless of internet connectivity.",
+      "quotes": [
+        [
+          5,
+          "i love how you can download shows movies to watch them offline",
+          "Jun 2020"
+        ],
+        [
+          4,
+          "it has a smart download feature for watching offline at a later point",
+          "Apr 2020"
+        ],
+        [
+          5,
+          "i enjoy downloading my movies or series, then i can watch offline, i can even watch with device on airplane mode, therefore uninterrupted viewing",
+          "Mar 2021"
+        ],
+        [
+          5,
+          "its great for when you dont wifi or anything bc you can down load episodes movies it amazing",
+          "Nov 2020"
+        ],
+        [
+          5,
+          "i use the download feature so that i can watch my shows when i have horrible internet",
+          "Feb 2024"
+        ],
+        [
+          5,
+          "you can download movies, tv shows, comedy acts, live streams, and motion pictures, and watch it anywhere!",
+          "Aug 2020"
+        ]
+      ]
+    },
+    {
+      "id": "w1",
+      "quad": "Weakness",
+      "name": "Brightness Change brightness",
+      "phrase": "brightness | change brightness | brightness way | control brightness | screen brightness | brightness turn",
+      "mentions": 1639,
+      "avgRating": 1.8,
+      "trend": "STABLE",
+      "prio": "HIGH",
+      "insight": "The app forcibly sets screen brightness higher than device settings, making nighttime viewing impossible.",
+      "quotes": [
+        [
+          1,
+          "fix your brightness controls, or remove it from the app completely",
+          "Feb 2026"
+        ],
+        [
+          1,
+          "minimum brightness is too high and overrides your phones brightness which is ridiculous for night watching",
+          "May 2024"
+        ],
+        [
+          1,
+          "it's irritating to watch the screen with high brightness even when i kept the brightness to the lowest",
+          "Dec 2023"
+        ],
+        [
+          1,
+          "much brighter than other apps or phone brightness, can't watch at night",
+          "Nov 2025"
+        ],
+        [
+          2,
+          "you can't control your screen brightness in this app, way too bright",
+          "Mar 2024"
+        ],
+        [
+          1,
+          "forcefully overrides my phone's brightness and makes it unwatchable at night, the lowest brightness is still like 30 which just melts my eyes",
+          "Dec 2023"
+        ]
+      ]
+    },
+    {
+      "id": "w2",
+      "quad": "Weakness",
+      "name": "Try reinstall Uninstalle reinstall",
+      "phrase": "try reinstall | uninstalle reinstall | try uninstalling | reinstall try | uninstalle reinstalled | uninstall reinstall",
+      "mentions": 1031,
+      "avgRating": 1.6,
+      "trend": "FALLING",
+      "prio": "HIGH",
+      "insight": "Recurring complaints center on try reinstall and uninstalle reinstall, a persistent source of user frustration.",
+      "quotes": [
+        [
+          1,
+          "even tried the uninstall and reinstall it",
+          "Jan 2020"
+        ],
+        [
+          4,
+          "have uninstalled and reinstalled twice already",
+          "Mar 2021"
+        ],
+        [
+          1,
+          "uninstalled and reinstalled but didn't help",
+          "Jan 2022"
+        ],
+        [
+          2,
+          "i tried to update and uninstall then install again",
+          "May 2020"
+        ],
+        [
+          4,
+          "i have to uninstall and again reinstall",
+          "Oct 2020"
+        ],
+        [
+          1,
+          "i have uninstalled and reinstalled for 2 days",
+          "May 2022"
+        ]
+      ]
+    },
+    {
+      "id": "w3",
+      "quad": "Weakness",
+      "name": "Login account Login issue",
+      "phrase": "login account | login issue | login problem | log account | login tell | sign screen",
+      "mentions": 840,
+      "avgRating": 1.4,
+      "trend": "STABLE",
+      "prio": "MEDIUM",
+      "insight": "Recurring complaints center on login account and login issue, a persistent source of user frustration.",
+      "quotes": [
+        [
+          1,
+          "this app just keep telling me to sign out and in",
+          "Nov 2023"
+        ],
+        [
+          1,
+          "this app is very annoing,because when i try to sign in every time it tells me every time wrong password and wrong email please try to fix it i wish i could give it 0 stars",
+          "Jan 2023"
+        ],
+        [
+          5,
+          "i can face problems to open the app ,it's not sign in in the app",
+          "Sep 2023"
+        ],
+        [
+          1,
+          "the app does not allow me to get into my account",
+          "Mar 2020"
+        ],
+        [
+          1,
+          "i have used this app for only 6-8 days and it does not let me sign in now",
+          "Feb 2020"
+        ],
+        [
+          1,
+          "the app does not allow me to login this app gets on my nerves",
+          "Aug 2020"
+        ]
+      ]
+    },
+    {
+      "id": "w4",
+      "quad": "Weakness",
+      "name": "Internet connection Connect internet",
+      "phrase": "internet connection | connect internet | internet problem | issue internet | network connection | connectivity issue",
+      "mentions": 777,
+      "avgRating": 2.0,
+      "trend": "FALLING",
+      "prio": "LOW",
+      "insight": "Recurring complaints center on internet connection and connect internet, a persistent source of user frustration.",
+      "quotes": [
+        [
+          1,
+          "i get perfect connection, etc and always a problem",
+          "Dec 2021"
+        ],
+        [
+          3,
+          "but why does it kept on saying that i have no internet connection when in fact i have a stable signal",
+          "Mar 2020"
+        ],
+        [
+          5,
+          "its only because of bad wifi",
+          "Jun 2020"
+        ],
+        [
+          1,
+          "its showing cant connect without data i use wifi give my 800 bucks back",
+          "May 2023"
+        ],
+        [
+          1,
+          "says i don't have a connection when i do",
+          "Mar 2020"
+        ],
+        [
+          1,
+          "however its not my network problem",
+          "Dec 2020"
+        ]
+      ]
+    },
+    {
+      "id": "w5",
+      "quad": "Weakness",
+      "name": "Uninstalle reinstall Try reinstall",
+      "phrase": "uninstalle reinstall | try reinstall | uninstall reinstall | try uninstall | try uninstalle | reinstall try",
+      "mentions": 684,
+      "avgRating": 1.6,
+      "trend": "FALLING",
+      "prio": "LOW",
+      "insight": "Users repeatedly uninstall and reinstall the application due to persistent issues.",
+      "quotes": [
+        [
+          1,
+          "i tried deleting and re downloading and updating the app",
+          "Apr 2020"
+        ],
+        [
+          1,
+          "i uninstall the app, reinstall it",
+          "Nov 2024"
+        ],
+        [
+          1,
+          "i even uninstalled then reinstalled app and still the same issue",
+          "May 2020"
+        ],
+        [
+          1,
+          "i've uninstalled and reinstall the app several times",
+          "May 2020"
+        ],
+        [
+          3,
+          "i cleared the app's data and even reinstalled the app",
+          "Jan 2023"
+        ],
+        [
+          3,
+          "i uninstalled it and reinstall the app",
+          "Jun 2024"
+        ]
+      ]
+    },
+    {
+      "id": "o1",
+      "quad": "Opportunity",
+      "name": "Love wish Like wish",
+      "phrase": "love wish | like wish | application | wish | wish new | harry potter",
+      "mentions": 496,
+      "avgRating": 3.8,
+      "trend": "FALLING",
+      "prio": "HIGH",
+      "insight": "Netflix should add more recent and popular series to enhance user satisfaction.",
+      "quotes": [
+        [
+          5,
+          "its a great app just needs more movies and shows that are good",
+          "Oct 2020"
+        ],
+        [
+          5,
+          "this is a great app and love the movies too, need more series tho",
+          "Apr 2021"
+        ],
+        [
+          2,
+          "there is not much movies on this app i don't know why at this price there should be more famous movie on app i am very dissapointed about that they don't even have old movies latest ones are farr away",
+          "May 2020"
+        ],
+        [
+          5,
+          "love the app.... it just that it doesn't have some movies and series innit",
+          "Jan 2023"
+        ],
+        [
+          4,
+          "great app, would be better if new movies are added more frequently... too many old movies",
+          "Dec 2020"
+        ],
+        [
+          2,
+          "im not satisfied with this app this app keep adding new movie and new series thats good",
+          "Jul 2020"
+        ]
+      ]
+    },
+    {
+      "id": "o2",
+      "quad": "Opportunity",
+      "name": "Download Download like",
+      "phrase": "download | download like | download want | like download | want download | download good",
+      "mentions": 403,
+      "avgRating": 3.0,
+      "trend": "STABLE",
+      "prio": "HIGH",
+      "insight": "Expand and improve download and download like, a change reviewers repeatedly request.",
+      "quotes": [
+        [
+          4,
+          "but there has been a problem with the downloading part which limits us the amount of movies, series or other things we want to download please fix that",
+          "Jan 2023"
+        ],
+        [
+          5,
+          "that way i wont have to use my data to watch the downloaded movies",
+          "Apr 2023"
+        ],
+        [
+          1,
+          "you should have special feature for military due we go out of conection for several months so downloads maybe not enought and doesnt last enough",
+          "Jan 2024"
+        ],
+        [
+          1,
+          "i can't watch my downloads because it needs network, so useless and pls make it better",
+          "Mar 2026"
+        ],
+        [
+          3,
+          "ylu should upgrade it so that itcan saveto the phone all the downloads",
+          "Jul 2022"
+        ],
+        [
+          1,
+          "not allowed to download which i pay for it so should be allowed to download what ever i want",
+          "Nov 2025"
+        ]
+      ]
+    },
+    {
+      "id": "o3",
+      "quad": "Opportunity",
+      "name": "Payment method Add payment",
+      "phrase": "payment method | add payment | payment option | payment add | payment like | improve payment",
+      "mentions": 399,
+      "avgRating": 2.5,
+      "trend": "FALLING",
+      "prio": "HIGH",
+      "insight": "Expand payment options to include UPI apps (Google Pay, PhonePe, Amazon Pay) and alternative digital wallets.",
+      "quotes": [
+        [
+          4,
+          "plz add other payment method like upi apps google pay, phonepe, amazon pay upi etc",
+          "Dec 2020"
+        ],
+        [
+          2,
+          "please find other payment methods",
+          "Oct 2023"
+        ],
+        [
+          3,
+          "please add another payment options, not everyone have credit card",
+          "Aug 2020"
+        ],
+        [
+          1,
+          "its not good to be payment, because some people use only paytm, phone pe, google pe, so i think dear you change the payment option",
+          "May 2020"
+        ],
+        [
+          1,
+          "i hope you could have another option such as google payment",
+          "Apr 2020"
+        ],
+        [
+          1,
+          "there should be other options for payment should exist... like paytm... or other cards should also be added for payment.. like paypal etc",
+          "Mar 2020"
+        ]
+      ]
+    },
+    {
+      "id": "o4",
+      "quad": "Opportunity",
+      "name": "Add anime Anime add",
+      "phrase": "add anime | anime add | anime want | want anime | available anime | need anime",
+      "mentions": 374,
+      "avgRating": 4.0,
+      "trend": "FALLING",
+      "prio": "LOW",
+      "insight": "Expand and improve add anime and anime add, a change reviewers repeatedly request.",
+      "quotes": [
+        [
+          3,
+          "please add more and more anime",
+          "May 2020"
+        ],
+        [
+          5,
+          "though i wish they addd more anime",
+          "Feb 2020"
+        ],
+        [
+          5,
+          "cool, but need more anime shows",
+          "Mar 2025"
+        ],
+        [
+          5,
+          "i'd like if there were more anime options",
+          "Oct 2020"
+        ],
+        [
+          5,
+          "but if u add more animes then it would be awesome animes like uzaki chan wants to hang out takagi san ss3 demon slayer ss5 jjk ss2 and 3 and more",
+          "Aug 2024"
+        ],
+        [
+          5,
+          "i just have one problem... it needs more anime",
+          "Jul 2020"
+        ]
+      ]
+    },
+    {
+      "id": "o5",
+      "quad": "Opportunity",
+      "name": "Star Star star",
+      "phrase": "star | star star | star need | love star | star want | rat star",
+      "mentions": 325,
+      "avgRating": 3.4,
+      "trend": "FALLING",
+      "prio": "LOW",
+      "insight": "Netflix should expand its anime selection to include more complete series.",
+      "quotes": [
+        [
+          4,
+          "i gave 4 star because not all movies and series are here",
+          "Jul 2021"
+        ],
+        [
+          4,
+          "i will give it a 5 star only if the netflix team do one thing",
+          "Jan 2023"
+        ],
+        [
+          4,
+          "but if you add more movies and shows it would be better and i whould rate it a 5 star",
+          "May 2020"
+        ],
+        [
+          2,
+          "give it a 2 star because it doesn't have all seasons of every series i watch",
+          "Oct 2024"
+        ],
+        [
+          3,
+          "the reason i give it a three star is because you need to add more movies for example you download a show app and type up a movie and you type that same movie on netflix",
+          "May 2022"
+        ],
+        [
+          4,
+          "the reason y i didn't give it 5 stars is mainly because of the animes available.it doesn't have alot of animes and even the animes available arent complete u may find an anime has 4 seasons",
+          "Feb 2023"
+        ]
+      ]
+    },
+    {
+      "id": "t1",
+      "quad": "Threat",
+      "name": "Subscription uninstalle Uninstalle",
+      "phrase": "subscription uninstalle | uninstalle | uninstall | subscription delete | cancel subscription | uninstalled",
+      "mentions": 1476,
+      "avgRating": 1.5,
+      "trend": "STABLE",
+      "prio": "HIGH",
+      "insight": "Rising dissatisfaction around subscription uninstalle and uninstalle is pushing reviewers toward rival services.",
+      "quotes": [
+        [
+          2,
+          "im just wasting my money to pay this app",
+          "Dec 2020"
+        ],
+        [
+          4,
+          "although i enjoyed this app i have deleted it and canceled my account",
+          "Sep 2020"
+        ],
+        [
+          1,
+          "to top it off the customer care says this is to give you a good experience.....how the hell is this good experience...??..now even that solution is not working...gonna cancel the subscription...useless app",
+          "Mar 2026"
+        ],
+        [
+          1,
+          "when you open the app the tell you to take subscribtion of about 800 rs very bad app",
+          "Apr 2020"
+        ],
+        [
+          1,
+          "the app has gone down so much its not worth paying for anything that doesn't work",
+          "Aug 2023"
+        ],
+        [
+          1,
+          "very bad app, it's even charging money to log in",
+          "Apr 2026"
+        ]
+      ]
+    },
+    {
+      "id": "t2",
+      "quad": "Threat",
+      "name": "Streamer Different service",
+      "phrase": "streamer | different service | service available | new service | service provide | service",
+      "mentions": 591,
+      "avgRating": 1.5,
+      "trend": "STABLE",
+      "prio": "HIGH",
+      "insight": "Other streaming services are perceived as superior alternatives by many users.",
+      "quotes": [
+        [
+          2,
+          "there are many other better streaming services",
+          "Mar 2024"
+        ],
+        [
+          1,
+          "this sucks and considering now a new streaming service",
+          "Apr 2024"
+        ],
+        [
+          1,
+          "i'd recommend not paying for stream services at all now when all streaming services are now becoming worse and greedier 0 5 stars if it were possible",
+          "May 2024"
+        ],
+        [
+          1,
+          "think i'll stick with other streaming services from now on",
+          "May 2023"
+        ],
+        [
+          1,
+          "this is why people are switching to other streaming services",
+          "Apr 2024"
+        ],
+        [
+          1,
+          "find yourself another streaming service",
+          "Feb 2023"
+        ]
+      ]
+    },
+    {
+      "id": "t3",
+      "quad": "Threat",
+      "name": "Commercial Advertisement",
+      "phrase": "commercial | advertisement | advert | commercial free | pay subscription | advertising",
+      "mentions": 540,
+      "avgRating": 1.4,
+      "trend": "RISING",
+      "prio": "MEDIUM",
+      "insight": "Netflix subscribers complain about watching ads on their paid plans.",
+      "quotes": [
+        [
+          1,
+          "pay for a subscription now the still make you watch ads",
+          "Feb 2024"
+        ],
+        [
+          1,
+          "i don't understand why you have to pay more than double the price just to not have ads",
+          "Nov 2023"
+        ],
+        [
+          1,
+          "if you have ads honestly you should not be paying it should be free at this point!",
+          "Jun 2023"
+        ],
+        [
+          1,
+          "\"5 ads in 30 minutes\" for paid subscription seriously!",
+          "May 2025"
+        ],
+        [
+          1,
+          "ads on a paid plan is insane, no sane person wants to pay to watch adverts",
+          "Mar 2026"
+        ],
+        [
+          1,
+          "ads even while paying every month, looking like a better option all the time",
+          "May 2024"
+        ]
+      ]
+    },
+    {
+      "id": "t4",
+      "quad": "Threat",
+      "name": "Password share Password sharing",
+      "phrase": "password share | password sharing | account sharing | share account | sharing policy | allow share",
+      "mentions": 449,
+      "avgRating": 1.2,
+      "trend": "RISING",
+      "prio": "LOW",
+      "insight": "Netflix’s account-sharing restrictions lead to customer cancellations and price complaints.",
+      "quotes": [
+        [
+          1,
+          "ridiculous that they no longer allow you to share accounts, it's all a money grab",
+          "Nov 2025"
+        ],
+        [
+          1,
+          "luckily, there are other providers out there with better prices and don't mind sharing passwords",
+          "Jun 2023"
+        ],
+        [
+          1,
+          "being unable to share my account with my children who use it way more than i do makes it not worth the money or trouble",
+          "May 2023"
+        ],
+        [
+          1,
+          "had to cancel my account because new password sharing nonsense makes it impossible for my family to access what we're paying for",
+          "Jul 2023"
+        ],
+        [
+          1,
+          "subscription price has become ridiculous and now they take away the ability to share accounts",
+          "Apr 2024"
+        ],
+        [
+          2,
+          "i can't share my account with my family and friends unless i pay more for it, when i already pay 21.02 a month for it, this is very disappointing and ridiculous",
+          "May 2026"
+        ]
+      ]
+    },
+    {
+      "id": "t5",
+      "quad": "Threat",
+      "name": "Cancel Cancel actually",
+      "phrase": "cancel | cancel actually | cancelation | cancel immediately | consider cancel | cancel need",
+      "mentions": 422,
+      "avgRating": 1.4,
+      "trend": "STABLE",
+      "prio": "LOW",
+      "insight": "Rising dissatisfaction around cancel and cancel actually is pushing reviewers toward rival services.",
+      "quotes": [
+        [
+          1,
+          "i guess i will be cancelling",
+          "Feb 2024"
+        ],
+        [
+          1,
+          "have canceled 4-5 times now",
+          "Jul 2023"
+        ],
+        [
+          2,
+          "i'm considering cancellation over this",
+          "May 2024"
+        ],
+        [
+          1,
+          "now i have to just cancel it all together",
+          "Sep 2022"
+        ],
+        [
+          1,
+          "i'm about to cancel it again",
+          "Apr 2023"
+        ],
+        [
+          1,
+          "thinking to cancel once and for all",
+          "Apr 2024"
+        ]
+      ]
+    }
+  ],
+  "heatmap": {
+    "Strength": [
+      9,
+      14,
+      21,
+      39,
+      70
+    ],
+    "Weakness": [
+      65,
+      63,
+      52,
+      31,
+      12
+    ],
+    "Opportunity": [
+      8,
+      13,
+      20,
+      26,
+      15
+    ],
+    "Threat": [
+      18,
+      11,
+      7,
+      4,
+      3
+    ]
+  },
+  "ratingCounts": [
+    54061,
+    11079,
+    11748,
+    13445,
+    42017
+  ],
+  "trend": {
+    "Strength": [
+      33.0,
+      26.8,
+      25.7,
+      27.3,
+      27.8,
+      28.1,
+      28.7,
+      21.8,
+      21.6,
+      19.9,
+      22.7,
+      20.1,
+      18.2,
+      20.9,
+      22.1,
+      20.9,
+      22.5,
+      25.5,
+      24.4,
+      26.5,
+      29.0,
+      30.4,
+      38.7
+    ],
+    "Weakness": [
+      43.5,
+      53.0,
+      53.9,
+      51.0,
+      47.6,
+      47.1,
+      48.4,
+      55.6,
+      49.5,
+      50.8,
+      49.6,
+      51.3,
+      53.0,
+      52.0,
+      49.4,
+      52.8,
+      50.7,
+      48.9,
+      49.9,
+      47.0,
+      46.4,
+      44.3,
+      38.3
+    ],
+    "Opportunity": [
+      15.7,
+      12.8,
+      13.0,
+      13.1,
+      12.7,
+      12.0,
+      13.6,
+      13.5,
+      11.4,
+      10.6,
+      11.6,
+      11.5,
+      11.0,
+      11.2,
+      13.2,
+      11.7,
+      11.4,
+      11.6,
+      10.0,
+      11.3,
+      10.7,
+      10.3,
+      11.5
+    ],
+    "Threat": [
+      7.8,
+      7.4,
+      7.4,
+      8.6,
+      11.9,
+      12.7,
+      9.3,
+      9.2,
+      17.5,
+      18.7,
+      16.1,
+      17.1,
+      17.8,
+      15.9,
+      15.3,
+      14.6,
+      15.5,
+      14.0,
+      15.7,
+      15.1,
+      13.9,
+      15.1,
+      11.6
+    ]
+  },
+  "volume": {
+    "counts": [
+      14.2,
+      20.0,
+      19.4,
+      17.1,
+      13.9,
+      12.0,
+      10.4,
+      8.9,
+      10.2,
+      9.7,
+      9.8,
+      9.2,
+      8.1,
+      9.0,
+      7.7,
+      9.9,
+      19.2,
+      14.5,
+      2.7,
+      9.5,
+      11.5,
+      8.0,
+      1.9,
+      6.0,
+      5.7,
+      5.4,
+      1.2
+    ],
+    "covid_range": [
+      1,
+      5
+    ]
+  }
+}
