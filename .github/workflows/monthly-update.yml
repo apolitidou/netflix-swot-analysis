@@ -37,12 +37,12 @@ jobs:
 
       - name: Wait for the run to finish
         run: |
-          for i in $(seq 1 120); do          # up to 120 x 3 min = 6 h
-            STATUS=$(kaggle kernels status "$KERNEL" 2>/dev/null | tr -d '"' | awk '{print $NF}')
-            echo "[$i] status: $STATUS"
-            case "$STATUS" in
-              complete) echo "run finished"; exit 0 ;;
-              error|cancelAcknowledged) echo "run failed"; exit 1 ;;
+          for i in $(seq 1 60); do          # up to 60 x 3 min = 3 h
+            RAW=$(kaggle kernels status "$KERNEL" 2>/dev/null)
+            echo "[$i] raw: $RAW"
+            case "$RAW" in
+              *COMPLETE*) echo "run finished"; exit 0 ;;
+              *ERROR*|*CANCEL*) echo "run failed"; exit 1 ;;
             esac
             sleep 180
           done
