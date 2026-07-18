@@ -1,12 +1,12 @@
 {
-  "id": "anastasiapolitidou/netflix-v2",
-  "title": "netflix-v2",
-  "code_file": "netflix-v2.ipynb",
+  "id": "anastasiapolitidou/netflix-monthly",
+  "title": "netflix-monthly",
+  "code_file": "netflix-monthly.ipynb",
   "language": "python",
   "kernel_type": "notebook",
   "is_private": true,
   "enable_gpu": true,
   "enable_internet": true,
-  "dataset_sources": ["ashishkumarak/netflix-reviews-playstore-daily-updated"],
+  "dataset_sources": ["ashishkumarak/netflix-reviews-playstore-daily-updated", "anastasiapolitidou/netflix-swot-model"],
   "kernel_sources": []
 }
