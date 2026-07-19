@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19 11:22 UTC",
+  "generated_at": "2026-07-19 20:50 UTC",
   "period_label": "Jan 2020 – Jul 2026",
   "meta": {
     "total_reviews": 101836,
@@ -51,98 +51,12 @@
     {
       "id": "s1",
       "quad": "Strength",
-      "name": "Application",
-      "phrase": "application | download",
-      "mentions": 1624,
-      "avgRating": 4.5,
-      "trend": "STABLE",
-      "prio": "HIGH",
-      "insight": "Reviewers consistently praise application and download, citing it as a key reason for keeping the app.",
-      "quotes": [
-        [
-          1,
-          "i love netflix it is a great app",
-          "Feb 2023"
-        ],
-        [
-          5,
-          "netflix is the best movie app ever!!",
-          "Feb 2020"
-        ],
-        [
-          3,
-          "netflix is a great app ive been using for years",
-          "Jul 2021"
-        ],
-        [
-          5,
-          "netflix is a great movie app i love netflix i always watch netflix 24 7",
-          "Jan 2025"
-        ],
-        [
-          4,
-          "netflix is a great app for movies and television show viewing and a very user friendly app",
-          "May 2020"
-        ],
-        [
-          5,
-          "love netflix - it's the perfect app for just about any show or movie you want",
-          "Jun 2025"
-        ]
-      ]
-    },
-    {
-      "id": "s2",
-      "quad": "Strength",
-      "name": "Comedy Horror",
-      "phrase": "comedy horror | thriller | variety film",
-      "mentions": 438,
-      "avgRating": 4.1,
-      "trend": "STABLE",
-      "prio": "HIGH",
-      "insight": "Reviewers consistently praise comedy horror and thriller, citing it as a key reason for keeping the app.",
-      "quotes": [
-        [
-          5,
-          "lots of variety of movies the quality of movies are good the picture is good the latest in movies are cool",
-          "Mar 2021"
-        ],
-        [
-          5,
-          "it is good movies with me and family",
-          "May 2020"
-        ],
-        [
-          3,
-          "there are many good and decent movies",
-          "Dec 2022"
-        ],
-        [
-          5,
-          "i really enjoy the movies, so many good movies to choose from",
-          "Mar 2021"
-        ],
-        [
-          5,
-          "overall great except for the organization of the movies",
-          "Mar 2021"
-        ],
-        [
-          5,
-          "great movies that i haven't seen before",
-          "Jul 2026"
-        ]
-      ]
-    },
-    {
-      "id": "s3",
-      "quad": "Strength",
       "name": "Subtitle",
       "phrase": "subtitle | title | translate",
       "mentions": 407,
       "avgRating": 3.7,
       "trend": "STABLE",
-      "prio": "MEDIUM",
+      "prio": "HIGH",
       "insight": "Reviewers consistently praise subtitle and title, citing it as a key reason for keeping the app.",
       "quotes": [
         [
@@ -178,58 +92,15 @@
       ]
     },
     {
-      "id": "s4",
+      "id": "s2",
       "quad": "Strength",
-      "name": "Riverdale",
-      "phrase": "riverdale | outer bank | comedy",
-      "mentions": 308,
-      "avgRating": 3.9,
-      "trend": "STABLE",
-      "prio": "LOW",
-      "insight": "Reviewers consistently praise riverdale and outer bank, citing it as a key reason for keeping the app.",
-      "quotes": [
-        [
-          3,
-          "i really love the wide variety of shows",
-          "Mar 2022"
-        ],
-        [
-          3,
-          "i dislike the amount of shows, there isn't that many good ones to go through but wonderful nonetheless",
-          "Jun 2020"
-        ],
-        [
-          4,
-          "all the shows are awesome",
-          "Jan 2021"
-        ],
-        [
-          5,
-          "there are many good shows",
-          "Jan 2023"
-        ],
-        [
-          3,
-          "there's a lot of show variety which is good",
-          "May 2023"
-        ],
-        [
-          4,
-          "i love some of the shows",
-          "Dec 2020"
-        ]
-      ]
-    },
-    {
-      "id": "s5",
-      "quad": "Strength",
-      "name": "Commercial",
-      "phrase": "commercial | advertisement | interruption",
+      "name": "Ad-free Viewing",
+      "phrase": "ad-free viewing | commercial | advertisement | interruption",
       "mentions": 302,
       "avgRating": 3.8,
       "trend": "STABLE",
-      "prio": "LOW",
-      "insight": "Reviewers consistently praise commercial and advertisement, citing it as a key reason for keeping the app.",
+      "prio": "HIGH",
+      "insight": "Reviewers consistently praise ad-free viewing and commercial, citing it as a key reason for keeping the app.",
       "quotes": [
         [
           5,
@@ -264,15 +135,144 @@
       ]
     },
     {
+      "id": "s3",
+      "quad": "Strength",
+      "name": "Multi-device Viewing",
+      "phrase": "multi-device viewing | laptop | tablet laptop | monitor",
+      "mentions": 273,
+      "avgRating": 3.3,
+      "trend": "STABLE",
+      "prio": "MEDIUM",
+      "insight": "Reviewers consistently praise multi-device viewing and laptop, citing it as a key reason for keeping the app.",
+      "quotes": [
+        [
+          5,
+          "watch on your phone, tablet, smart tv,or laptop anytime, anywhere",
+          "Dec 2025"
+        ],
+        [
+          5,
+          "it's great cuz when people are watching stuff on tv i can watch it on phone",
+          "Apr 2024"
+        ],
+        [
+          1,
+          "i use mostly my phone to watch",
+          "Nov 2022"
+        ],
+        [
+          5,
+          "i watch it on my tv and phone",
+          "Jul 2020"
+        ],
+        [
+          5,
+          "not to mention i can watch it on virtually every electronic i own",
+          "Jun 2022"
+        ],
+        [
+          5,
+          "love the option of viewing on mobile device or tv",
+          "Jul 2020"
+        ]
+      ]
+    },
+    {
+      "id": "s4",
+      "quad": "Strength",
+      "name": "Download Offline",
+      "phrase": "download offline | offline viewing | download later",
+      "mentions": 272,
+      "avgRating": 3.9,
+      "trend": "STABLE",
+      "prio": "MEDIUM",
+      "insight": "Users can download movies and TV shows for offline viewing on any device.",
+      "quotes": [
+        [
+          5,
+          "i love how you can download shows movies to watch them offline",
+          "Jun 2020"
+        ],
+        [
+          1,
+          "now i downloaded several episodes and movies to view while i was off grid",
+          "Mar 2021"
+        ],
+        [
+          5,
+          "i enjoy downloading my movies or series, then i can watch offline, i can even watch with device on airplane mode, therefore uninterrupted viewing",
+          "Mar 2021"
+        ],
+        [
+          5,
+          "always reiable and can watch it anywhere, anytime and can watch downloads anywhere offline",
+          "Jun 2022"
+        ],
+        [
+          5,
+          "you can even download series and films so you can watch without wifi!",
+          "Jan 2024"
+        ],
+        [
+          5,
+          "you can download movies, tv shows, comedy acts, live streams, and motion pictures, and watch it anywhere!",
+          "Aug 2020"
+        ]
+      ]
+    },
+    {
+      "id": "s5",
+      "quad": "Strength",
+      "name": "Content Variety",
+      "phrase": "content variety | choose | variety documentary | drama comedy",
+      "mentions": 188,
+      "avgRating": 4.3,
+      "trend": "STABLE",
+      "prio": "LOW",
+      "insight": "The app offers a great variety of movies, TV shows, and series for users to choose from.",
+      "quotes": [
+        [
+          5,
+          "great variety of movies and tv shows",
+          "Mar 2025"
+        ],
+        [
+          4,
+          "some good movies and series",
+          "Apr 2025"
+        ],
+        [
+          5,
+          "a lot of movies, shows, series, mini-series, etc. to choose from",
+          "Jun 2020"
+        ],
+        [
+          5,
+          "there are thousands of movies and series to watch",
+          "May 2020"
+        ],
+        [
+          3,
+          "not a bad variety of current and old movies tv series",
+          "Jun 2022"
+        ],
+        [
+          5,
+          "a wide variety of good movies and tv shows",
+          "Oct 2020"
+        ]
+      ]
+    },
+    {
       "id": "w1",
       "quad": "Weakness",
       "name": "Brightness Control",
-      "phrase": "brightness control | screen brightness | brightness slider",
+      "phrase": "brightness control | brightness screen | brightness slider",
       "mentions": 1530,
       "avgRating": 1.9,
       "trend": "STABLE",
       "prio": "HIGH",
-      "insight": "Recurring complaints center on brightness control and screen brightness, a persistent source of user frustration.",
+      "insight": "Recurring complaints center on brightness control and brightness screen, a persistent source of user frustration.",
       "quotes": [
         [
           1,
@@ -309,13 +309,13 @@
     {
       "id": "w2",
       "quad": "Weakness",
-      "name": "Sign Screen",
-      "phrase": "sign screen | sign account | try sign",
+      "name": "Sign-in & Login",
+      "phrase": "sign-in & login issues | sign screen | sign account | sign try",
       "mentions": 835,
       "avgRating": 1.4,
       "trend": "STABLE",
       "prio": "HIGH",
-      "insight": "Recurring complaints center on sign screen and sign account, a persistent source of user frustration.",
+      "insight": "Recurring complaints center on sign-in & login issues and sign screen, a persistent source of user frustration.",
       "quotes": [
         [
           4,
@@ -352,13 +352,13 @@
     {
       "id": "w3",
       "quad": "Weakness",
-      "name": "Anime",
-      "phrase": "anime | harry potter | cancel",
+      "name": "Content Removal From",
+      "phrase": "content removal from library | anime | harry potter | cancel",
       "mentions": 828,
       "avgRating": 2.2,
       "trend": "STABLE",
       "prio": "MEDIUM",
-      "insight": "Recurring complaints center on anime and harry potter, a persistent source of user frustration.",
+      "insight": "Recurring complaints center on content removal from library and anime, a persistent source of user frustration.",
       "quotes": [
         [
           5,
@@ -396,12 +396,12 @@
       "id": "w4",
       "quad": "Weakness",
       "name": "Subscription",
-      "phrase": "subscription | pay subscription | purchase subscription",
+      "phrase": "subscription | subscription pay | subscription purchase",
       "mentions": 822,
       "avgRating": 1.4,
       "trend": "STABLE",
       "prio": "MEDIUM",
-      "insight": "Recurring complaints center on subscription and pay subscription, a persistent source of user frustration.",
+      "insight": "Recurring complaints center on subscription and subscription pay, a persistent source of user frustration.",
       "quotes": [
         [
           2,
@@ -438,8 +438,8 @@
     {
       "id": "w5",
       "quad": "Weakness",
-      "name": "Method Payment",
-      "phrase": "method payment | process payment | payment update",
+      "name": "Payment Method",
+      "phrase": "payment method | payment process | payment update",
       "mentions": 821,
       "avgRating": 1.6,
       "trend": "STABLE",
@@ -482,7 +482,7 @@
       "id": "o1",
       "quad": "Opportunity",
       "name": "Payment Method",
-      "phrase": "payment method | payment option | add payment",
+      "phrase": "payment method | payment upi | pay upi",
       "mentions": 353,
       "avgRating": 2.6,
       "trend": "FALLING",
@@ -524,141 +524,12 @@
     {
       "id": "o2",
       "quad": "Opportunity",
-      "name": "Brightness",
-      "phrase": "brightness | bright | control screen",
-      "mentions": 297,
-      "avgRating": 2.2,
-      "trend": "RISING",
-      "prio": "HIGH",
-      "insight": "Allow users to disable the in-app brightness adjuster to align with their device settings.",
-      "quotes": [
-        [
-          1,
-          "i hate the fact that i can't control the brightness on my device when watching content",
-          "Nov 2022"
-        ],
-        [
-          4,
-          "nice app, but i would like to suggest to add an option to remove in app brightness",
-          "Feb 2020"
-        ],
-        [
-          2,
-          "for the love of god, please remove the brightness adjuster, or at least give us the option to disable it",
-          "May 2025"
-        ],
-        [
-          2,
-          "to enhance user experience, the brightness adjustment should either be properly calibrated to match device parameters or removed entirely, as it serves little purpose in its current form",
-          "Feb 2025"
-        ],
-        [
-          4,
-          "i wish i could decrease the brightness even more than the bar allows us to on the screen",
-          "May 2024"
-        ],
-        [
-          2,
-          "just let me use the normal phone brightness like every other app",
-          "Apr 2024"
-        ]
-      ]
-    },
-    {
-      "id": "o3",
-      "quad": "Opportunity",
-      "name": "Cinema",
-      "phrase": "cinema | flick | add",
-      "mentions": 290,
-      "avgRating": 3.7,
-      "trend": "STABLE",
-      "prio": "HIGH",
-      "insight": "Expand and improve cinema and flick, a change reviewers repeatedly request.",
-      "quotes": [
-        [
-          3,
-          "love netflix but they have to put more new movies",
-          "Mar 2024"
-        ],
-        [
-          4,
-          "if netflix could add more shows and stop removing the series or movies!",
-          "May 2020"
-        ],
-        [
-          5,
-          "i love netflix but you need to add all of types of movies and shows put all them back now that's worth loving",
-          "Jan 2025"
-        ],
-        [
-          5,
-          "i love netflix could use more fantasy and horror it's is sad to see reruns of movies from 6months ago that is the only down fall it would be good if you could still access old shows",
-          "Jul 2023"
-        ],
-        [
-          5,
-          "i love netflix just wish they would stop taking shows off and actually show what we want to see more",
-          "Sep 2023"
-        ],
-        [
-          5,
-          "i think netflix needs to bring all the good movies and shows back",
-          "Jul 2026"
-        ]
-      ]
-    },
-    {
-      "id": "o4",
-      "quad": "Opportunity",
-      "name": "Country Film",
-      "phrase": "country film | region country | certain country",
-      "mentions": 278,
-      "avgRating": 3.1,
-      "trend": "FALLING",
-      "prio": "LOW",
-      "insight": "Expand and improve country film and region country, a change reviewers repeatedly request.",
-      "quotes": [
-        [
-          3,
-          "what bothers me is the fact that some series or movies are not available in every country",
-          "Apr 2020"
-        ],
-        [
-          4,
-          "there are few shows which are available in other regions",
-          "Aug 2020"
-        ],
-        [
-          2,
-          "i wish that u could watch movies that the other regions get to watch",
-          "Mar 2020"
-        ],
-        [
-          5,
-          "the thing is, that most of the shows i actually wanna watch aren't available in my country",
-          "Apr 2020"
-        ],
-        [
-          1,
-          "a lot of content unavailable in my country it's so unfair how americans got way more shows available in their country",
-          "Jul 2020"
-        ],
-        [
-          4,
-          "if only all the shows and movies were available irrespective of the country",
-          "Jun 2022"
-        ]
-      ]
-    },
-    {
-      "id": "o5",
-      "quad": "Opportunity",
       "name": "Hindi Dub",
       "phrase": "hindi dub | hindi dubbing | dub english",
       "mentions": 266,
       "avgRating": 2.8,
       "trend": "RISING",
-      "prio": "LOW",
+      "prio": "HIGH",
       "insight": "Netflix should add Hindi dubbing for more series to meet user demand.",
       "quotes": [
         [
@@ -694,15 +565,144 @@
       ]
     },
     {
+      "id": "o3",
+      "quad": "Opportunity",
+      "name": "Quality",
+      "phrase": "quality | quality picture | quality change",
+      "mentions": 189,
+      "avgRating": 2.9,
+      "trend": "STABLE",
+      "prio": "MEDIUM",
+      "insight": "Allow users to adjust video quality settings directly within the streaming interface.",
+      "quotes": [
+        [
+          1,
+          "give me an option to select video quality",
+          "Aug 2024"
+        ],
+        [
+          4,
+          "app is good but there should be a option to control the quality of video",
+          "Aug 2020"
+        ],
+        [
+          4,
+          "it would be better if you have an option to change the quality setting of videos that we see online",
+          "Jul 2020"
+        ],
+        [
+          4,
+          "please put the feature where i can change the video quality on the streaming screen",
+          "Jan 2021"
+        ],
+        [
+          4,
+          "it would be better if they change the quality customization like 480p,720p,1080p",
+          "May 2024"
+        ],
+        [
+          2,
+          "there should really be an option to change the video quality especially for people with low data capacity",
+          "Apr 2020"
+        ]
+      ]
+    },
+    {
+      "id": "o4",
+      "quad": "Opportunity",
+      "name": "Parental Controls &",
+      "phrase": "parental controls & kids profiles | adult | teenager | teen",
+      "mentions": 175,
+      "avgRating": 3.2,
+      "trend": "STABLE",
+      "prio": "LOW",
+      "insight": "Expand the parental control settings to exclusively allow PG and G-rated content for child profiles.",
+      "quotes": [
+        [
+          5,
+          "for children you can make their profiles only have pg and g rated films too which keeps them from watching inappropriate things",
+          "Dec 2020"
+        ],
+        [
+          2,
+          "this is app for adults and there is nothing for kids isn't that stupid i request netflix to add segment for kids also",
+          "May 2020"
+        ],
+        [
+          5,
+          "can there pls be a setting to change the age group?",
+          "Jun 2026"
+        ],
+        [
+          3,
+          "it does not give the option to block the content for kids",
+          "Jul 2020"
+        ],
+        [
+          3,
+          "it is cool, but some stuff is inappropriate on the kids account, like it would show adult stuff like love island an stuff, may you fix that please?",
+          "Mar 2026"
+        ],
+        [
+          4,
+          "make less 18 because there are less family movies on",
+          "Jan 2021"
+        ]
+      ]
+    },
+    {
+      "id": "o5",
+      "quad": "Opportunity",
+      "name": "Country Available",
+      "phrase": "country available | foreign | canada",
+      "mentions": 166,
+      "avgRating": 3.0,
+      "trend": "FALLING",
+      "prio": "LOW",
+      "insight": "Netflix should expand its global library to include more region-specific content.",
+      "quotes": [
+        [
+          4,
+          "i love netflix, just wish they didn't show movies for specific countries",
+          "May 2020"
+        ],
+        [
+          3,
+          "contents should be at par with us netflix",
+          "Mar 2020"
+        ],
+        [
+          4,
+          "netflix is exceptional catering for almost everything.my problem is that america gets loads more tv,movie and series",
+          "Jul 2021"
+        ],
+        [
+          4,
+          "really hope that netflix is international cause a lot of movie or even series are not in due to the reason of we are in different country",
+          "Oct 2020"
+        ],
+        [
+          4,
+          "netflix should also bring some more regional contents",
+          "May 2022"
+        ],
+        [
+          4,
+          "netflix is great however i don't like how some shows are only available in other countries and not in australia",
+          "Apr 2020"
+        ]
+      ]
+    },
+    {
       "id": "t1",
       "quad": "Threat",
-      "name": "Uninstalle",
-      "phrase": "uninstalle | uninstall | uninstalled",
+      "name": "Uninstalls & Churn",
+      "phrase": "uninstalls & churn | uninstalle | uninstall | uninstalled",
       "mentions": 1775,
       "avgRating": 1.5,
       "trend": "STABLE",
       "prio": "HIGH",
-      "insight": "Netflix subscribers feel their subscriptions are a waste of money due to app usability issues and auto-renewal charges.",
+      "insight": "Rising dissatisfaction around uninstalls & churn and uninstalle is pushing reviewers toward rival services.",
       "quotes": [
         [
           1,
@@ -739,98 +739,12 @@
     {
       "id": "t2",
       "quad": "Threat",
-      "name": "Application",
-      "phrase": "application | hulu | film",
-      "mentions": 944,
-      "avgRating": 3.8,
-      "trend": "FALLING",
-      "prio": "HIGH",
-      "insight": "Netflix lacks diverse series and movies to satisfy users.",
-      "quotes": [
-        [
-          5,
-          "its a great app just needs more movies and shows that are good",
-          "Oct 2020"
-        ],
-        [
-          5,
-          "this is a great app and love the movies too, need more series tho",
-          "Apr 2021"
-        ],
-        [
-          5,
-          "love the app.... it just that it doesn't have some movies and series innit",
-          "Jan 2023"
-        ],
-        [
-          2,
-          "im not satisfied with this app this app keep adding new movie and new series thats good",
-          "Jul 2020"
-        ],
-        [
-          5,
-          "i love this app it's the best what i wish that they can put the new movie miraculous ladybug new york in there that we like so great for me",
-          "Oct 2020"
-        ],
-        [
-          5,
-          "i love this app i cant wait for new movies,shows and for popular series to return",
-          "Sep 2022"
-        ]
-      ]
-    },
-    {
-      "id": "t3",
-      "quad": "Threat",
-      "name": "Lose Customer",
-      "phrase": "lose customer | loose customer | company support",
-      "mentions": 661,
-      "avgRating": 1.2,
-      "trend": "RISING",
-      "prio": "MEDIUM",
-      "insight": "Rising dissatisfaction around lose customer and loose customer is pushing reviewers toward rival services.",
-      "quotes": [
-        [
-          2,
-          "anyway and there trying to make more money i hate greedy companies that don't look out for there customers so bring it on you's would be rich as",
-          "Jan 2023"
-        ],
-        [
-          1,
-          "this greed driven predatory business practice is unacceptable",
-          "Feb 2024"
-        ],
-        [
-          1,
-          "sad to see what money dose to a great company",
-          "Apr 2025"
-        ],
-        [
-          2,
-          "profit over people seems to be their direction now",
-          "May 2024"
-        ],
-        [
-          1,
-          "this company has gotten far too over confident with providing increasingly bad services and then demanding more money afterwards",
-          "Jan 2024"
-        ],
-        [
-          1,
-          "i guess this is what happen when a company is governed by greed",
-          "May 2025"
-        ]
-      ]
-    },
-    {
-      "id": "t4",
-      "quad": "Threat",
-      "name": "Cancel",
-      "phrase": "cancel | decide cancel | cancel stop",
+      "name": "Show Cancellations",
+      "phrase": "show cancellations | cancel | cancel decide | cancel stop",
       "mentions": 403,
       "avgRating": 1.8,
       "trend": "STABLE",
-      "prio": "LOW",
+      "prio": "HIGH",
       "insight": "Netflix cancels popular shows mid-season, frustrating subscribers.",
       "quotes": [
         [
@@ -866,45 +780,131 @@
       ]
     },
     {
-      "id": "t5",
+      "id": "t3",
       "quad": "Threat",
-      "name": "Money Youtube",
-      "phrase": "money youtube | download pay | film",
-      "mentions": 263,
-      "avgRating": 1.7,
-      "trend": "STABLE",
-      "prio": "LOW",
-      "insight": "Rising dissatisfaction around money youtube and download pay is pushing reviewers toward rival services.",
+      "name": "Cinema",
+      "phrase": "cinema | dvd | pay dollar",
+      "mentions": 386,
+      "avgRating": 2.0,
+      "trend": "FALLING",
+      "prio": "HIGH",
+      "insight": "Rising dissatisfaction around cinema and dvd is pushing reviewers toward rival services.",
       "quotes": [
         [
+          1,
+          "if they can't get those movies then why they charge money",
+          "Aug 2023"
+        ],
+        [
+          1,
+          "price isnt worth it anymore no good movies too choose from",
+          "Nov 2024"
+        ],
+        [
+          1,
+          "terrible selection of movies and not worth the monthly subscription price",
+          "Feb 2023"
+        ],
+        [
+          3,
+          "the only problem is that there is a fee when you watch a movie",
+          "Mar 2022"
+        ],
+        [
           2,
-          "this app is waste of money very bad movies bad shows old and old stuff i wasted my money and time here by years now i going to cansel this bull s",
-          "Apr 2025"
+          "paying and getting old boring movies, very less choice of movies",
+          "Mar 2020"
+        ],
+        [
+          3,
+          "the price is too high for what movies and tv shows that are offered",
+          "Aug 2020"
+        ]
+      ]
+    },
+    {
+      "id": "t4",
+      "quad": "Threat",
+      "name": "Bye",
+      "phrase": "bye | end subscription | anymore subscription",
+      "mentions": 378,
+      "avgRating": 1.4,
+      "trend": "STABLE",
+      "prio": "LOW",
+      "insight": "Netflix subscribers are cancelling due to perceiving the service as worthless.",
+      "quotes": [
+        [
+          1,
+          "needless to say i won't be using netflix anymore",
+          "Oct 2024"
+        ],
+        [
+          3,
+          "i'm tempted of terminating my netflix account",
+          "Feb 2025"
         ],
         [
           1,
-          "there are other apps out there with great movies and shows that cost less",
-          "Nov 2020"
+          "gonna cancel netflix because it has become absolutely worthless",
+          "Feb 2024"
         ],
         [
           1,
-          "worst app ever i have used.i take 2 years subscription.there isnot all movie available.if there isnot all movie than why we take subscription?",
-          "Dec 2023"
+          "i have decided to never watch netflix again",
+          "Mar 2021"
         ],
         [
           1,
-          "this app is the worst it needs to be paid or any thing else before we can see movies i wish it will be not like that i just want to watch movies",
-          "Jan 2020"
+          "netflix, if you read this, this is the reason i'm cancelling my account",
+          "May 2024"
         ],
         [
           1,
-          "the app is not worth the money, i paid to watch the movie and series i like",
-          "Apr 2020"
+          "i am tired of it and now i do not see the reason of having netflix",
+          "Jun 2021"
+        ]
+      ]
+    },
+    {
+      "id": "t5",
+      "quad": "Threat",
+      "name": "Price Increase",
+      "phrase": "price increase | price rise | price raise",
+      "mentions": 263,
+      "avgRating": 2.0,
+      "trend": "STABLE",
+      "prio": "LOW",
+      "insight": "Rising dissatisfaction around price increase and price rise is pushing reviewers toward rival services.",
+      "quotes": [
+        [
+          1,
+          "the constant price increases are getting ridiculous",
+          "Jan 2021"
         ],
         [
           1,
-          "useless ,worst app , wastage of money ,most of the movies are not available , instead of buying subscription to this you should go for a alternate free app like pickashow and videobuddy",
-          "May 2021"
+          "the price continues to rise",
+          "Oct 2024"
+        ],
+        [
+          4,
+          "they've been increasing the price for a while",
+          "Feb 2022"
+        ],
+        [
+          2,
+          "the prices keep going up which i understand",
+          "Jul 2022"
+        ],
+        [
+          1,
+          "they continue to raise prices",
+          "Mar 2022"
+        ],
+        [
+          1,
+          "there is no need to increase the price so much and so often",
+          "Mar 2022"
         ]
       ]
     }
