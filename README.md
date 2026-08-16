@@ -1,4 +1,4 @@
-# ReviewLens
+# Netflix SWOT Analysis
 
 What Netflix users say on the Google Play Store, gathered automatically into a SWOT matrix once a month.
 
