@@ -36,18 +36,6 @@ kaggle/
 
 There is no fixed list of themes. For each category, the system finds the opinions that recur across the most reviews, reads them, and proposes the themes that stand out. It then matches every opinion to its closest theme by meaning rather than by matching words. That way each theme title comes from what users actually write.
 
-## Setting it up from scratch
-
-1. Create a public repo and upload these files.
-2. **GitHub Pages:** Settings -> Pages -> Source = Deploy from a branch -> `main` / root.
-3. **Kaggle API token:** kaggle.com -> Account -> Create New API Token (downloads `kaggle.json`).
-4. **Secrets** (repo -> Settings -> Secrets and variables -> Actions -> New secret):
-   - `KAGGLE_USERNAME` is your username
-   - `KAGGLE_KEY` is the key from `kaggle.json`
-5. In `kernel-metadata.json`, set your own slug: `your-username/netflix-monthly`.
-
-After that it runs on its own each month. You can also start it by hand from the Actions tab.
-
 ## What is behind it
 
 A RoBERTa classifier, trained on reviews first labelled by a larger model and by hand, gives each opinion its SWOT category. The themes come from the data itself, and each theme's description is written from the reviews belonging to it.
