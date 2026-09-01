@@ -1,20 +1,15 @@
 {
-  "generated_at": "2026-08-13 15:43 UTC",
+  "generated_at": "2026-09-01 08:39 UTC",
   "period_label": "Jan 2020 – Aug 2026",
   "meta": {
-    "total_reviews": 102552,
-    "total_opinions": 221168,
-    "avg_rating": 2.85,
-    "positive_share_pct": 42.3,
+    "total_reviews": 103157,
+    "total_opinions": 222315,
+    "avg_rating": 2.86,
+    "positive_share_pct": 42.7,
     "coverage_pct": 99.7,
     "macro_f1": 0.8
   },
   "history": [
-    {
-      "total_reviews": 125436,
-      "avg_rating": 2.83,
-      "positive_share_pct": 41.5
-    },
     {
       "total_reviews": 127182,
       "avg_rating": 2.82,
@@ -39,226 +34,231 @@
       "total_reviews": 133080,
       "avg_rating": 2.84,
       "positive_share_pct": 42.1
+    },
+    {
+      "total_reviews": 135629,
+      "avg_rating": 2.86,
+      "positive_share_pct": 42.7
     }
   ],
   "quadTotals": {
-    "Strength": 39469,
-    "Weakness": 66783,
-    "Opportunity": 24706,
-    "Threat": 22129
+    "Strength": 39830,
+    "Weakness": 67003,
+    "Opportunity": 24858,
+    "Threat": 22223
   },
   "topics": [
     {
       "id": "s1",
       "quad": "Strength",
-      "name": "Content Variety",
-      "phrase": "great range, variety, shows, movies, series",
-      "mentions": 10637,
-      "avgRating": 4.4,
+      "name": "Netflix Love",
+      "phrase": "watch, whatever, download",
+      "mentions": 10056,
+      "avgRating": 4.1,
       "trend": "STABLE",
       "prio": "HIGH",
-      "insight": "Users praise Netflix for its extensive variety of movies and TV shows, including unique content.",
+      "insight": "Users highly recommend Netflix as an excellent app for watching movies.",
       "quotes": [
         [
           5,
-          "netflix has wonderful movies and tv shows",
-          "Jan 2020"
+          "i just love netflix its a really good app",
+          "Jul 2026"
         ],
         [
           5,
-          "offers a great variety of movies and shows for all tastes",
-          "Jun 2026"
-        ],
-        [
-          2,
-          "there's always a great range of shows movies to choose from, downloading streaming is of high quality, and the app is easy to navigate",
-          "May 2022"
-        ],
-        [
-          1,
-          "when i am looking for something to watch it has a lot of movies and shows",
-          "May 2024"
-        ],
-        [
-          3,
-          "as far as movies and series that are available, netflix is quite an entertaining app to have",
-          "Jun 2024"
+          "the netflix is a great way to watch movies",
+          "Feb 2020"
         ],
         [
           5,
-          "the selection of shows movies is decent",
-          "Mar 2020"
+          "this is the best app to watch the best movies possible it is so awsome to have netflix in my life!",
+          "Aug 2020"
+        ],
+        [
+          5,
+          "i love using netflix for all my entertainment needs",
+          "Feb 2026"
+        ],
+        [
+          5,
+          "love to watch netflix movies better than other movie apps",
+          "Jul 2022"
+        ],
+        [
+          5,
+          "netflix so helpful, we can watch all movie we want",
+          "Dec 2025"
         ]
       ]
     },
     {
       "id": "s2",
       "quad": "Strength",
-      "name": "User Experience",
-      "phrase": "no ads, no crashes, no bugs, easy to use",
-      "mentions": 6329,
-      "avgRating": 4.2,
+      "name": "Good App Reviews",
+      "phrase": "Fast, stable, offline, works, fine",
+      "mentions": 2326,
+      "avgRating": 3.9,
       "trend": "STABLE",
       "prio": "HIGH",
-      "insight": "Users find the app excellent with good functionality and enjoy using it regularly.",
+      "insight": "Users find the app consistently good and functional overall.",
       "quotes": [
         [
-          5,
-          "it is a good app i love it",
-          "Jan 2020"
-        ],
-        [
-          3,
-          "the app is very good the best to be honest",
-          "Apr 2022"
-        ],
-        [
-          5,
-          "overall it is a very nice app, if only this app was for free i would have loved it even more",
-          "May 2020"
-        ],
-        [
-          5,
-          "this app is good for me and i love it",
-          "Aug 2024"
-        ],
-        [
-          5,
-          "this app is great and enjoyable",
-          "Aug 2021"
+          4,
+          "its a pretty good app overall",
+          "Jan 2025"
         ],
         [
           2,
-          "the app is awesome, has a brilliant functionality",
-          "Jul 2022"
+          "the quality and functionality of the app is good",
+          "Feb 2024"
+        ],
+        [
+          4,
+          "it is an awesome app, i always had a good experience it's up to the mark compared to other apps",
+          "Aug 2020"
+        ],
+        [
+          4,
+          "overall, it is one of the best app ever",
+          "Dec 2020"
+        ],
+        [
+          4,
+          "it is a good app as long as i have had it",
+          "Oct 2020"
+        ],
+        [
+          3,
+          "all in all the app is good",
+          "Jan 2022"
         ]
       ]
     },
     {
       "id": "s3",
       "quad": "Strength",
-      "name": "Mobile Viewing",
-      "phrase": "mobile, road trips, phone, anywhere",
-      "mentions": 1568,
-      "avgRating": 4.0,
+      "name": "Streaming Quality App",
+      "phrase": "video, quality, HD",
+      "mentions": 1206,
+      "avgRating": 3.7,
       "trend": "STABLE",
       "prio": "MEDIUM",
-      "insight": "Users highly recommend the app for watching both movies and TV shows.",
+      "insight": "Users praise the app's excellent streaming and picture quality, though some classics are removed over time.",
       "quotes": [
         [
-          3,
-          "the app is great for watching movies",
-          "Jan 2021"
+          4,
+          "this app has very nice quality unlike some other streaming or watching apps",
+          "Sep 2022"
+        ],
+        [
+          4,
+          "enjoy the movies and having smooth streaming",
+          "Oct 2020"
         ],
         [
           5,
-          "i love this app and that i can download movies, so ehen i'm in a place with no wifi, i can still watch my shows!",
-          "Oct 2021"
+          "pristine 4k video quality, an overwhelming catalog of original shows, and zero buffering issues on any device",
+          "Jun 2026"
         ],
         [
           5,
-          "great app for watching movies and tv shows when away from home",
-          "Sep 2021"
+          "you can see unlimited movies and series and video and audio quality is excellent",
+          "Dec 2020"
+        ],
+        [
+          4,
+          "video and audio quality in netflix is very good",
+          "Dec 2021"
         ],
         [
           5,
-          "i love this app and its perfect to binge watch during trips",
-          "Apr 2020"
-        ],
-        [
-          5,
-          "i love this app and that it is on mobile phones it makes it so much more easy to watch movies and watch with friends without a television in your face",
-          "Mar 2023"
-        ],
-        [
-          5,
-          "this is the best app if you want to watch movie or tv series anywhere and plus it don't have any bugs!!!",
-          "Sep 2020"
+          "good in video quality and live streaming",
+          "May 2021"
         ]
       ]
     },
     {
       "id": "s4",
       "quad": "Strength",
-      "name": "Device Compatibility",
-      "phrase": "works on phone, works on tv, chromecast",
-      "mentions": 996,
-      "avgRating": 2.7,
+      "name": "Ad-Free Netflix",
+      "phrase": "ads, commercial, commercial-free",
+      "mentions": 608,
+      "avgRating": 3.7,
       "trend": "STABLE",
       "prio": "LOW",
-      "insight": "Users report the app functions well across various devices including phones, TVs, and tablets.",
+      "insight": "Users praise ad-free experience and extensive content selection.",
       "quotes": [
         [
           5,
-          "the app works perfectly on my phone and tv",
-          "Oct 2025"
+          "no ads normal netflix i love it",
+          "Jan 2024"
         ],
         [
           5,
-          "i can watch movies on all of ny devices",
-          "Mar 2021"
-        ],
-        [
-          3,
-          "i think my device working very well since i watch another show at another apps",
-          "Jun 2020"
+          "this is such an amazing app with no ads",
+          "Jan 2020"
         ],
         [
           5,
-          "i use it on chromecast with an android and on firestick",
-          "May 2022"
+          "no ads and you seem to get your money's worth",
+          "Mar 2022"
         ],
         [
-          3,
-          "the netflix app is working great in my android hand set",
-          "Feb 2024"
+          4,
+          "i mean its amazing and no ads",
+          "Dec 2020"
+        ],
+        [
+          1,
+          "i literally paid for this so i wouldn't have to deal with ads and can watch good quality",
+          "Apr 2024"
         ],
         [
           5,
-          "it's amazing is works on every device for me even on tv",
-          "Oct 2020"
+          "i love how there are no ads unlike other streaming services",
+          "Nov 2024"
         ]
       ]
     },
     {
       "id": "s5",
       "quad": "Strength",
-      "name": "App Performance",
-      "phrase": "works, fast, no glitches",
-      "mentions": 990,
-      "avgRating": 3.4,
+      "name": "Excellent Service",
+      "phrase": "customer care, helpful, support",
+      "mentions": 475,
+      "avgRating": 4.0,
       "trend": "STABLE",
       "prio": "LOW",
-      "insight": "Most users find the app performs well with minimal issues.",
+      "insight": "Customers consistently praise the high quality of the service received.",
       "quotes": [
         [
-          2,
-          "the app is mostly fine",
-          "May 2024"
-        ],
-        [
           5,
-          "the app is working perfect no bugs no lag not even little freeze the app is best thing i have downloaded",
-          "May 2021"
-        ],
-        [
-          5,
-          "far no issues with this app at all",
+          "very pleased with the service,could not ask for anything more",
           "Oct 2020"
         ],
         [
-          4,
-          "the days it does work good everything is just fine the app itself is a good app it just has some issues it needs to fix",
-          "Jun 2021"
+          5,
+          "customer service is nice and gets things done and have great mix movies and shows",
+          "Mar 2020"
         ],
         [
           5,
-          "the app works smoothly most of the time",
-          "Jan 2025"
+          "the customer service and human understand here has kept me a loyal customer",
+          "Aug 2022"
         ],
         [
-          4,
-          "the app is sometimes glitchy otherwise the app is really good",
+          5,
+          "wonderful everything about this service is wonderful",
+          "Sep 2021"
+        ],
+        [
+          1,
+          "overall the service we receive is really good",
+          "Nov 2020"
+        ],
+        [
+          5,
+          "great service wonderful payment options friendly staff",
           "May 2020"
         ]
       ]
@@ -266,14 +266,72 @@
     {
       "id": "w1",
       "quad": "Weakness",
-      "name": "App Crashes",
-      "phrase": "crash, app, crashes",
-      "mentions": 12031,
-      "avgRating": 1.6,
+      "name": "Netflix App Issues",
+      "phrase": "movies and shows are not playing in full resolution, pay for the 4k subscription and i'm seeing pixelation and banding right across the picture, resolution issues, resolution issues",
+      "mentions": 16526,
+      "avgRating": 1.8,
       "trend": "STABLE",
       "prio": "HIGH",
-      "insight": "Users consistently report frequent crashes and difficulties opening the app, causing significant frustration.",
+      "insight": "Multiple users report significant problems with the Netflix app functionality.",
       "quotes": [
+        [
+          1,
+          "i have a problem with netflix it's self",
+          "Apr 2020"
+        ],
+        [
+          1,
+          "extremely dissapointed many of my friends have the same problem fix this netflix !!!!",
+          "Apr 2021"
+        ],
+        [
+          1,
+          "very disappointed with the netflix service now, i have registered for a subscription",
+          "Oct 2023"
+        ],
+        [
+          3,
+          "don't know what is happening i have netflix from years it doesn't have any problem everything was perfect",
+          "Sep 2025"
+        ],
+        [
+          1,
+          "the netflix app is rubbish it's not working properly",
+          "Jan 2025"
+        ],
+        [
+          1,
+          "i've been using netflix for a month before the app showed a problem",
+          "Feb 2024"
+        ]
+      ]
+    },
+    {
+      "id": "w2",
+      "quad": "Weakness",
+      "name": "App Crashes On Open",
+      "phrase": "crash, error, freeze",
+      "mentions": 8518,
+      "avgRating": 1.6,
+      "trend": "FALLING",
+      "prio": "HIGH",
+      "insight": "Users report frequent crashes and force stops when trying to open the app.",
+      "quotes": [
+        [
+          2,
+          "every time i try to open the app it starts to give me error and i have to open it 3 to 6 time just to enter the app fix this crash or bug its annoying reinstalling doesn't fix it",
+          "Sep 2020"
+        ],
+        [
+          1,
+          "the app keeps not working",
+          "Apr 2020"
+        ],
+        [
+          1,
+          "this went on for a month now the app has completely stopped working",
+          "Feb 2023"
+        ],
         [
           1,
           "whenever i try to go to the app the app closes and do not respond , it is a very bad issue, and i'm very disappointed",
@@ -281,223 +339,256 @@
         ],
         [
           1,
-          "for some reason your app keep on messing up.. can't even watch properly using phone videos keeps on loading",
-          "Feb 2026"
+          "couldn't even open the app, uninstalled, reinstalled, rebooted my phone, doesn't work",
+          "Nov 2023"
         ],
         [
-          4,
-          "i love this app, except for the problem i got recently",
-          "Apr 2021"
-        ],
-        [
-          3,
-          "i had this app for months now and its acting up",
-          "Oct 2020"
-        ],
-        [
-          1,
-          "very bad eperience with this app i was using it from few days no complaint then but suddenly from yesterday it started loading everytime i play tried everything but not working btw",
-          "Mar 2021"
-        ],
-        [
-          3,
-          "the app is not launching i've to download it again to watch something then after some time it's not launching again",
-          "Oct 2022"
-        ]
-      ]
-    },
-    {
-      "id": "w2",
-      "quad": "Weakness",
-      "name": "Account Issues",
-      "phrase": "account, login, login",
-      "mentions": 5244,
-      "avgRating": 1.6,
-      "trend": "STABLE",
-      "prio": "HIGH",
-      "insight": "Users are experiencing difficulties logging into their accounts.",
-      "quotes": [
-        [
-          1,
-          "i tried a lot to sign in to my account",
-          "Apr 2020"
-        ],
-        [
-          1,
-          "it is not letting me log into my account, which i have a subscription for",
-          "Aug 2022"
-        ],
-        [
-          1,
-          "now it asks me to choose an account and doesn't let me in",
-          "Sep 2020"
-        ],
-        [
-          1,
-          "i try login but not possible..it shows email password is wrong.. ridiculous",
-          "Mar 2024"
-        ],
-        [
-          1,
-          "it's doesn't work or signing in.it so annoying",
-          "Aug 2020"
-        ],
-        [
-          1,
-          "this app is not letting me in to my account its being shity",
-          "Mar 2024"
+          2,
+          "i am facing problems with this app lately",
+          "Jul 2020"
         ]
       ]
     },
     {
       "id": "w3",
       "quad": "Weakness",
-      "name": "Screen Display Problems",
-      "phrase": "screen, black, display",
-      "mentions": 3718,
-      "avgRating": 1.8,
+      "name": "Video Streaming Issues",
+      "phrase": "playback, continue, resume, stuck, audio",
+      "mentions": 5482,
+      "avgRating": 1.9,
       "trend": "STABLE",
       "prio": "MEDIUM",
-      "insight": "Users report consistent issues with black screens during video playback, affecting multiple devices.",
+      "insight": "Users report frequent video freezing and screen blackouts during playback.",
       "quotes": [
         [
           1,
-          "the screen is just black when i try to watch something",
-          "Apr 2020"
+          "while watching it will suddenly stop playing it is like the video freezes",
+          "Nov 2024"
+        ],
+        [
+          4,
+          "love this app but some issues when watch a video the video stops but the audio is still on",
+          "Jan 2021"
         ],
         [
           1,
-          "getting black screen with audio only this spoils the mof of watching and even customer service can not fix no help from reporting",
-          "May 2022"
+          "the video player is not working properly, other than that everything is good please fix the video player bug",
+          "Sep 2021"
         ],
         [
-          5,
-          "most of the time, the screen is just goes black, it only shows the video on the video player",
-          "Aug 2024"
+          1,
+          "plays my movie or tv show for 5 seconds then video freezes and audio still plays, tried reinstalling and restarting my phone",
+          "Apr 2024"
         ],
         [
-          2,
-          "another issue i have is the screen turning black in the middle of watching something",
-          "Jan 2025"
+          1,
+          "when i was in a series, it stops video and continue playing audio",
+          "Dec 2020"
         ],
         [
           3,
-          "my screen on my phone is black when i play a show only the subtitles show and i can hear it",
-          "Apr 2022"
-        ],
-        [
-          1,
-          "i can't even watch anything it's just pitch black all i can hear is the audio fix this ik not paying for this if it doesn't get fixed",
-          "Sep 2021"
+          "secondly sometimes the movie just hangs and the audio keeps on playing in the background",
+          "Mar 2023"
         ]
       ]
     },
     {
       "id": "w4",
       "quad": "Weakness",
-      "name": "Streaming Quality",
-      "phrase": "quality, buffering, buffering",
-      "mentions": 3593,
-      "avgRating": 2.0,
+      "name": "Sign-in Issues",
+      "phrase": "i got a problem i was logging in and i typed in the right code and it said it was wrong, i can't even log in error -1001 keeps showing, login problems, login problems",
+      "mentions": 4162,
+      "avgRating": 1.6,
       "trend": "STABLE",
       "prio": "LOW",
-      "insight": "Users complain about poor video quality, frequent playback issues, and lack of control over streaming settings on Netflix.",
+      "insight": "Users are consistently experiencing problems signing in despite correct credentials.",
       "quotes": [
         [
           1,
-          "netflix's video player is not good... try to improve it",
-          "Apr 2024"
+          "now it is not signning in again",
+          "Oct 2022"
+        ],
+        [
+          4,
+          "soemtimes it puts me that it has an error and it won't let me in sometimes , pls fix that bug",
+          "Jan 2020"
         ],
         [
           1,
-          "worst app and management , i subscribed ultra hd set every available option to stream in hd",
-          "Dec 2021"
+          "it keeps saying \"incorrect password\" even",
+          "Jun 2025"
+        ],
+        [
+          4,
+          "there is a login issues so fix that",
+          "Oct 2024"
         ],
         [
           1,
-          "this streaming service also does not have very great content",
-          "Jan 2024"
-        ],
-        [
-          2,
-          "sometimes iam not able to watch after downloading seriously its so pathetic that i waste my time and money for downloading and after not able to see",
-          "May 2021"
+          "when im trying to login into my account",
+          "Jul 2020"
         ],
         [
           1,
-          "movies and television shows only stream when the app is feeling up to it and the price keeps going up while the quality of its selection just keeps getting low low low low !",
-          "Aug 2022"
-        ],
-        [
-          1,
-          "well whatever happend to quality streaming , the update is really bad , can't really watch my shows everything is buffering i thought my internet was slow even with wifi there is poor connection",
-          "May 2021"
+          "not logging in on the app keeps giving me something went wron or wrong password even",
+          "Jun 2025"
         ]
       ]
     },
     {
       "id": "w5",
       "quad": "Weakness",
-      "name": "Subscription Restrictions",
-      "phrase": "restriction, restriction, restriction",
-      "mentions": 3142,
-      "avgRating": 1.5,
+      "name": "App Update Hate",
+      "phrase": "i don't like the new mobile interface, interface changes",
+      "mentions": 2996,
+      "avgRating": 1.7,
       "trend": "RISING",
       "prio": "LOW",
-      "insight": "Users are frustrated by subscription restrictions, unable to watch content even with a paid plan.",
+      "insight": "Users intensely dislike recent changes to the app, finding them unusable.",
       "quotes": [
         [
-          3,
-          "to top it all when your subscription expires you can't access movies you have downloaded which is very bad and unfair",
-          "Feb 2022"
+          1,
+          "the latest app ui is the worst possible thing that they could ever come up with...hate this app now!",
+          "Nov 2022"
+        ],
+        [
+          2,
+          "i don't like the new mobile interface",
+          "Apr 2023"
         ],
         [
           1,
-          "yet i cant even down app to watch the dam netflix please get this billing problem fixed my money back free service for 1 year or my next move will be to tell all how terribble your service really is",
-          "Apr 2020"
+          "this app is nothing it used to be",
+          "Jun 2022"
+        ],
+        [
+          2,
+          "i hate how the app works now",
+          "Jan 2025"
         ],
         [
           1,
-          "we are paying for subscription and we still encountering this kind of inconvinience",
-          "Feb 2022"
+          "horrible ui too, why on my phone when i go to see what's new",
+          "Feb 2024"
         ],
         [
           1,
-          "why am i paying another month that i cannot watch one thing",
-          "Jan 2024"
-        ],
-        [
-          1,
-          "i have the subscription then why am i getting such response from netflix?",
-          "Dec 2023"
-        ],
-        [
-          1,
-          "turn off internet security vpn to use this app else you will run into a disfunctional home page without the shows your paying to see... often forget to turn it back on or just go onto crunchyroll or nebula instead... ever decreasing line up... less shows and even fewer that i like to watch... prices keep increasing... now getting threatened with fines for account sharing on a family subscription where we pay more for multiple people!",
-          "Apr 2022"
+          "this app is now an assault on the senses, it is no longer user friendly nor accessible",
+          "Apr 2023"
         ]
       ]
     },
     {
       "id": "o1",
       "quad": "Opportunity",
-      "name": "Content Variety",
-      "phrase": "movies, shows, seasons, new",
-      "mentions": 4663,
-      "avgRating": 3.5,
+      "name": "Missing Show Seasons",
+      "phrase": "shows, movies, unavailable, seasons",
+      "mentions": 2089,
+      "avgRating": 3.4,
       "trend": "STABLE",
       "prio": "HIGH",
-      "insight": "Users want Netflix to add more movies and shows to keep them from subscribing to other services.",
+      "insight": "Customers complain about incomplete show collections and missing seasons on Netflix.",
       "quotes": [
         [
-          3,
-          "please add more movies so that we dont have to go to other services because netflix becomes boring",
-          "Jun 2025"
+          4,
+          "netflix please add all seasons of some shows!!",
+          "Aug 2022"
         ],
         [
           3,
-          "there are limited options of shows and movies",
-          "Jul 2026"
+          "it does have several more shows and movie, they just don't interest me",
+          "Feb 2020"
+        ],
+        [
+          3,
+          "some good tv series are not available",
+          "Dec 2020"
+        ],
+        [
+          4,
+          "wish there were more series or movies also there is some series that does not have another season no matter its already released 2 yrs ago but still not there",
+          "May 2020"
+        ],
+        [
+          3,
+          "nooo netflix had to take it off please just brimg back some of the series that you got rid of and stick them on kids only or adult",
+          "Jan 2020"
+        ],
+        [
+          5,
+          "my only problem about it is that some of the shows that i wanna watch don't have a complete season",
+          "Oct 2020"
+        ]
+      ]
+    },
+    {
+      "id": "o2",
+      "quad": "Opportunity",
+      "name": "Content Availability Issues",
+      "phrase": "new movies, shows, region, language, seasons",
+      "mentions": 1901,
+      "avgRating": 3.1,
+      "trend": "STABLE",
+      "prio": "HIGH",
+      "insight": "Users complain about limited availability of popular films and series in their regions.",
+      "quotes": [
+        [
+          2,
+          "many films available in various platforms not available in netflix... need more webseries and other country films",
+          "Jan 2020"
+        ],
+        [
+          4,
+          "i wish it would have all tv series and movies available in my country",
+          "Aug 2020"
+        ],
+        [
+          5,
+          "yet i hope netflix enables all the show just like us",
+          "Dec 2020"
+        ],
+        [
+          5,
+          "the only thing i hate is that some top rated films series are not available the chosen, upanishad ganga, shawshank redemption, the planet earth 2, the harshad mehta story more documentaries from nat geo",
+          "Sep 2021"
+        ],
+        [
+          3,
+          "i like why do they even have \"american netflix\" like what its extremely unfair because im not able to see all movies unlike the \"americans\" they can see the legend of korra",
+          "Oct 2020"
+        ],
+        [
+          4,
+          "netflix can get a lot better if the release every movie and series on the same date in every country",
+          "Jul 2022"
+        ]
+      ]
+    },
+    {
+      "id": "o3",
+      "quad": "Opportunity",
+      "name": "Netflix Feature Requests",
+      "phrase": "lists, to-watch, reset, trailers",
+      "mentions": 1805,
+      "avgRating": 3.3,
+      "trend": "STABLE",
+      "prio": "MEDIUM",
+      "insight": "Users request more features, better discoverability, and more content options.",
+      "quotes": [
+        [
+          1,
+          "the app is lacking features it should have at this point, like the ability to mark which shows movies you've already watched as well as hide titles you don't even want to see",
+          "Jan 2024"
+        ],
+        [
+          4,
+          "just need to add more tv movie options",
+          "Apr 2021"
+        ],
+        [
+          4,
+          "hey netflix, can u guys add a feature in your app",
+          "Sep 2020"
         ],
         [
           4,
@@ -506,89 +597,46 @@
         ],
         [
           4,
-          "amazing streaming service, but they need a more diverse range of programs movies",
-          "Jan 2024"
-        ],
-        [
-          2,
-          "limit drama and movie to watch, many movies can't find here, i hope netflix can let us to get more old movie not juz put those recently hot drama or movies only",
-          "Nov 2021"
-        ],
-        [
-          4,
-          "it'd be nice to see some good popular shows on netflix, it would deff improve the app",
-          "Jun 2022"
-        ]
-      ]
-    },
-    {
-      "id": "o2",
-      "quad": "Opportunity",
-      "name": "Missing Shows and Seasons",
-      "phrase": "show, season, availability",
-      "mentions": 2286,
-      "avgRating": 3.5,
-      "trend": "STABLE",
-      "prio": "HIGH",
-      "insight": "Users want Netflix to add more complete seasons and series for better viewing experiences.",
-      "quotes": [
-        [
-          5,
-          "there's not all of the seasons on them and there's knower else to watch them that i can't think of so please put more seasons on",
-          "Jul 2021"
-        ],
-        [
-          4,
-          "i still wish it would had the whole series for certain t.v. shows",
-          "Apr 2020"
-        ],
-        [
-          4,
-          "wish you guys at netflix would bring back a few shows tho",
-          "Sep 2020"
-        ],
-        [
-          4,
-          "wish there were more series or movies also there is some series that does not have another season no matter its already released 2 yrs ago but still not there",
-          "May 2020"
-        ],
-        [
-          5,
-          "my only problem about it is that some of the shows that i wanna watch don't have a complete season",
-          "Oct 2020"
-        ],
-        [
-          3,
-          "need more shows and get the whole seasons not just part were i have to find the ending of the season on a differnt platform",
-          "Mar 2022"
-        ]
-      ]
-    },
-    {
-      "id": "o3",
-      "quad": "Opportunity",
-      "name": "Language Support",
-      "phrase": "subtitles, languages, translations, regional",
-      "mentions": 1708,
-      "avgRating": 2.7,
-      "trend": "RISING",
-      "prio": "MEDIUM",
-      "insight": "Users want more English and Hindi dubbing options for non-English content on Netflix.",
-      "quotes": [
-        [
-          4,
-          "some movies and dramas are in other languages, all should be available in english so that anyobe can watch and entertain more",
-          "May 2020"
-        ],
-        [
-          1,
-          "there are many languages tooo...in netflix india",
+          "great app just wish you had more variaties of tv shows",
           "Jul 2020"
         ],
         [
+          4,
+          "i would love it if it would add movies around the time they come out so you could watch them soon",
+          "Mar 2020"
+        ]
+      ]
+    },
+    {
+      "id": "o4",
+      "quad": "Opportunity",
+      "name": "Language Availability Issues",
+      "phrase": "languages, subtitles, audio, interface",
+      "mentions": 1449,
+      "avgRating": 2.8,
+      "trend": "RISING",
+      "prio": "LOW",
+      "insight": "Users request more language options, particularly Hindi, for movies and shows.",
+      "quotes": [
+        [
           1,
-          "please add more subtitles malay in each movie in your netflix..please improve",
-          "Mar 2021"
+          "in this app the languages are very less for many movies and shows",
+          "Dec 2024"
+        ],
+        [
+          5,
+          "please add english or hindi dub in anime as i am a anime fan and my family is not allowing me to watch it in other languages",
+          "Sep 2023"
+        ],
+        [
+          4,
+          "why you dont make dual language subtitles available?",
+          "Jan 2023"
+        ],
+        [
+          5,
+          "netflix should improve language audio means add hindi language in which that the tamil, marathi, telugu movies watches",
+          "Feb 2025"
         ],
         [
           4,
@@ -596,252 +644,123 @@
           "Aug 2022"
         ],
         [
-          1,
-          "don't subscribe hindi people hindi english dubbed not available in mostly content tamil telugu malayalam ect only original language",
-          "Dec 2024"
-        ],
-        [
-          4,
-          "why you dont make dual language subtitles available?",
-          "Jan 2023"
-        ]
-      ]
-    },
-    {
-      "id": "o4",
-      "quad": "Opportunity",
-      "name": "Anime Selection",
-      "phrase": "anime, seasons, dubbed, availability",
-      "mentions": 1223,
-      "avgRating": 3.6,
-      "trend": "STABLE",
-      "prio": "LOW",
-      "insight": "Users want more anime, English dubs, and newer seasons on Netflix.",
-      "quotes": [
-        [
           5,
-          "please bring some more anime in netflix",
-          "Dec 2025"
-        ],
-        [
-          4,
-          "there is one problem most of the anime shows are not available in english dub",
-          "Jun 2023"
-        ],
-        [
-          4,
-          "you'l find lots of hindi and english tv series along with movies , some of the best tv series are only on netflix ,lower the price",
-          "May 2020"
-        ],
-        [
-          4,
-          "i don't get to watch the whole part of it, also please add more animes u guys have too less animes",
-          "May 2024"
-        ],
-        [
-          2,
-          "we need for choses and new chinese, korean and japanede shows to watch",
-          "Jul 2022"
-        ],
-        [
-          5,
-          "i recommendation i want add that i should also provide with latest anime like bleach after arcane fight, classroom of the elite season 1 and 3",
-          "Feb 2024"
+          "i'd like to have the opportunity to select if i want to watch non english films as it looks really good",
+          "Aug 2021"
         ]
       ]
     },
     {
       "id": "o5",
       "quad": "Opportunity",
-      "name": "Subscription Experience",
-      "phrase": "sign-up, membership, payment, options",
-      "mentions": 951,
-      "avgRating": 2.5,
+      "name": "Netflix Content Selection",
+      "phrase": "rating, movies, shows",
+      "mentions": 860,
+      "avgRating": 3.1,
       "trend": "STABLE",
       "prio": "LOW",
-      "insight": "Users request additional payment options like mobile money, Google Pay, and local debit/credit cards to simplify Netflix subscription.",
+      "insight": "Users want more options and better filtering for shows and movies.",
       "quotes": [
         [
           1,
-          "please add more payment method like mobile money account i really wanna subscribe and watch netflix",
-          "Jul 2022"
+          "i'll add stars to my review when you give us the option to remove shows movies that we don't want to see or have already seen so we don't have to sift through a mountain of content we don't want",
+          "Dec 2024"
         ],
         [
-          2,
-          "you can change your payment option to recharge instead of subscription...it is better than subscription",
-          "Apr 2020"
-        ],
-        [
-          5,
-          "you should add the upi payment facility so that people can pay easily stop acting like a gold digger girl for monthly subscription",
-          "Jul 2020"
-        ],
-        [
-          1,
-          "why there is no option to buy subscription without mastercard or visha card that's really bad",
-          "Feb 2025"
-        ],
-        [
-          1,
-          "add google pay option, to buy the subscription, because in our country its hard to get a international usd debit card or credit card",
-          "Mar 2020"
+          3,
+          "i would give netflix at least 4.5 rating",
+          "May 2026"
         ],
         [
           4,
-          "why the payment for the netflix indonesia too complicated why don't you make the payment more simple like others, you will get huge new subscribers",
-          "Jan 2021"
+          "the only thing is that not all movies and tv shows are here this is why i rated 4",
+          "Feb 2021"
+        ],
+        [
+          4,
+          "i think it would be a easier to choose a movie or series to watch, if ratings are available on the netflix app",
+          "Nov 2020"
+        ],
+        [
+          3,
+          "i give this app three stars because the are very little movies and series to watch",
+          "Apr 2023"
+        ],
+        [
+          5,
+          "the reason i didn't give 5 stars is because the parental control can you please update it from having to put in the pin in every adult movie and instead put the password on the adult profile meaning when we click on the adult profile we just put in a pin to enter instead of putting in a pin in the movies that's annoying to be putting in a pin in every movie i wanna watch",
+          "Jan 2020"
         ]
       ]
     },
     {
       "id": "t1",
       "quad": "Threat",
-      "name": "Price Comparison",
-      "phrase": "compare, hulu, amazon",
-      "mentions": 3997,
-      "avgRating": 1.9,
+      "name": "Netflix Pricing Concerns",
+      "phrase": "cost, expensive, affordable",
+      "mentions": 7141,
+      "avgRating": 1.7,
       "trend": "STABLE",
       "prio": "HIGH",
-      "insight": "Users find Netflix overpriced and are considering alternatives or cancellations.",
+      "insight": "Customers find Netflix subscriptions overpriced and not worth the cost.",
       "quotes": [
-        [
-          1,
-          "another reason to cancel netflix subscription and give better services my money",
-          "Jul 2020"
-        ],
-        [
-          3,
-          "i like netflix, but the only issue is the pricing",
-          "Apr 2020"
-        ],
-        [
-          1,
-          "now the greed and poor streaming with customer service not helping out at all i resorted back to cable which is about 60 dollars for a year of service compared to the newly increased price jack on netflix of 200 dollars a year",
-          "Jan 2022"
-        ],
-        [
-          1,
-          "netflix sucks now and i am going to watch on other platforms",
-          "Jun 2023"
-        ],
-        [
-          1,
-          "i don't like this subscription of a thing,netflix is the best app",
-          "Mar 2026"
-        ],
         [
           1,
           "netflix is really not worth the money we are being charged",
           "May 2025"
+        ],
+        [
+          5,
+          "its subscription charge is too costly",
+          "Jun 2020"
+        ],
+        [
+          1,
+          "they charge so much money for limited amount of users and price goes up more the users at the same time watch out dont have everyone watching at the same time itll kick you off and for the same shows and movies that are on there every month i dont think the price is worth it i will be unsubscribing and uninstalling to make room for other streaming apps that show the same shows at a cheaper price",
+          "May 2023"
+        ],
+        [
+          1,
+          "the subscription fee is not even worth it for there is little or scarce movie selection to choose from",
+          "Feb 2022"
+        ],
+        [
+          1,
+          "1 star for this money hungry app, the latest update of extra members had to pay to watch netflix sucks!",
+          "Sep 2023"
+        ],
+        [
+          2,
+          "it isn't worth the 23 a month they are now charging with the frustrations of trying to watch a movie that won't play",
+          "Jan 2024"
         ]
       ]
     },
     {
       "id": "t2",
       "quad": "Threat",
-      "name": "Ad-Free Plan Pricing",
-      "phrase": "ad, plan, price, quality",
-      "mentions": 3047,
+      "name": "Netflix Cancellations",
+      "phrase": "cancel, shows, seasons, original, cancelled",
+      "mentions": 2421,
       "avgRating": 1.8,
       "trend": "STABLE",
       "prio": "HIGH",
-      "insight": "Users find the ad-free plan's monthly subscription price to be excessively high and unjustified.",
+      "insight": "Users are frustrated by Netflix's frequent cancellations of popular shows.",
       "quotes": [
         [
           1,
-          "i cannot believe that this app, even if the plan has ads, there is still a 10 subscription monthly fee",
-          "Aug 2026"
+          "netflix is cancelling all the good shows",
+          "Dec 2022"
         ],
         [
           2,
-          "i'm getting frustrated and i pay for a premium package",
-          "Feb 2020"
-        ],
-        [
-          1,
-          "the service does not justify the monthly price",
-          "Apr 2026"
-        ],
-        [
-          1,
-          "way to overprized not worth having im actually cancelling this month.why pay when their are somany free movie apps out their",
-          "Aug 2020"
-        ],
-        [
-          1,
-          "considering that i pay full price for the subscription same as any other customer with a premium device like a samsung or an iphone",
-          "Jun 2021"
-        ],
-        [
-          1,
-          "because i don't want to watch advertising my price went from 6.99 a month to 10.99 a month",
-          "Aug 2023"
-        ]
-      ]
-    },
-    {
-      "id": "t3",
-      "quad": "Threat",
-      "name": "Account Management Issues",
-      "phrase": "account, deleted, subscription",
-      "mentions": 1917,
-      "avgRating": 1.3,
-      "trend": "STABLE",
-      "prio": "MEDIUM",
-      "insight": "Users complain about unexpected subscription cancellations, charges after cancellation, and issues with account management.",
-      "quotes": [
-        [
-          1,
-          "i cancelled my account and stop the subscription",
-          "Oct 2022"
-        ],
-        [
-          1,
-          "i just had a bad experience since last week my account got deducted by netflix on the 3 of march 2020 only for the app to sign me out",
+          "i'm seriously thinking about canceling my service because everything i want to watch is either canceled or removed, and when i finally find something to watch, it only has 10 episodes that i have to wait a year for another season of- if it doesn't get canceled",
           "Mar 2020"
         ],
         [
-          1,
-          "i canceled my account after having it for 6 years and than i pay 20 for it again and this is what is happening",
-          "Feb 2022"
-        ],
-        [
-          1,
-          "used this app for a month and then cancelled my membership",
-          "Nov 2021"
-        ],
-        [
-          1,
-          "can't change my password and you guys keep charging my card..and app won't allow cancellation of subscription..fraud service",
-          "May 2020"
-        ],
-        [
-          1,
-          "a customer since day one doest matter can't share my account with my brother go f your self canceling my subscription money hungry bs or use at work tells",
-          "Jun 2023"
-        ]
-      ]
-    },
-    {
-      "id": "t4",
-      "quad": "Threat",
-      "name": "Show Cancellations",
-      "phrase": "cancel, show, series, remove",
-      "mentions": 947,
-      "avgRating": 1.7,
-      "trend": "STABLE",
-      "prio": "LOW",
-      "insight": "Customers are frustrated by frequent show cancellations and want better retention of popular series.",
-      "quotes": [
-        [
-          1,
-          "please stop cancelling the shows i like",
-          "Jun 2022"
-        ],
-        [
-          1,
-          "i was on the fence about cancelling my subscription as the content and good shows that keep getting cancelled doesn't justify the constant price increases",
-          "Aug 2022"
+          2,
+          "keep on cancelling good shows and removing great movies, i've long moved on to streaming services with a much wider variety and less greediness",
+          "Dec 2023"
         ],
         [
           1,
@@ -850,61 +769,142 @@
         ],
         [
           1,
-          "i'll probably be cancelling since there's no shows ii really watch all the good ones are over",
+          "i guess i'll cancel netflix, and ill watch a different service from now on",
+          "Feb 2026"
+        ],
+        [
+          3,
+          "netflix is fun but can yall stop canceling shows",
+          "May 2021"
+        ]
+      ]
+    },
+    {
+      "id": "t3",
+      "quad": "Threat",
+      "name": "Price Increases",
+      "phrase": "price, increase, charge",
+      "mentions": 966,
+      "avgRating": 1.9,
+      "trend": "STABLE",
+      "prio": "MEDIUM",
+      "insight": "Customers express frustration with repeated and rising prices.",
+      "quotes": [
+        [
+          3,
+          "the price increasing is getting out of hand",
+          "Aug 2022"
+        ],
+        [
+          2,
+          "prices go up yet the service is questionable",
+          "Oct 2024"
+        ],
+        [
+          3,
+          "they keep raising the price which isn't great",
+          "Mar 2025"
+        ],
+        [
+          1,
+          "the last two prices increases made me mad",
+          "Feb 2022"
+        ],
+        [
+          4,
+          "please tell me why i am getting another price increase",
+          "Feb 2025"
+        ],
+        [
+          1,
+          "why keep increasing the monthly price when it's already over priced. greedy",
+          "Feb 2025"
+        ]
+      ]
+    },
+    {
+      "id": "t4",
+      "quad": "Threat",
+      "name": "Subscription Renewal Issues",
+      "phrase": "renewal, automatic, subscription, billing",
+      "mentions": 916,
+      "avgRating": 1.4,
+      "trend": "STABLE",
+      "prio": "LOW",
+      "insight": "Customers complain about automatic renewal and unexpected charges for their subscriptions.",
+      "quotes": [
+        [
+          1,
+          "now after subscription over it charges again automatically",
+          "Aug 2026"
+        ],
+        [
+          1,
+          "netflix keeps telling me to update payment after i had done that twice and my was debited twice for a month",
+          "Jun 2024"
+        ],
+        [
+          1,
+          "my subscription has still not been renewed, even",
+          "Jul 2026"
+        ],
+        [
+          1,
+          "if this doesn't get fix before my next payment i will have to cancel my subscription",
           "Jan 2025"
         ],
         [
           1,
-          "they canceled all the shows i watch, just waiting for them to cancel the last one i watch then i'm canceling my service",
-          "Jan 2023"
+          "i have cancelled my membership and after it they again recharged me netflix fee",
+          "Oct 2020"
         ],
         [
-          2,
-          "the strategy of cancelling a show after 2 season in a vain attempt to get new veiwers to stay in the hopes that the show will come back is pathetic, add that with ever climbing price and lack of a way to remove their own homebrewed ads from my home screen or constantly having to dislike a show i have zero interest in even ever watching yet still having it recommended to me",
-          "Jun 2020"
+          1,
+          "i cancel my membership an it says it only going to cancel at the end of my billing cycle.. after doing that.. it still auto renew an took my money out my account",
+          "Jun 2022"
         ]
       ]
     },
     {
       "id": "t5",
       "quad": "Threat",
-      "name": "Platform Usability Problems",
-      "phrase": "app, crashes, errors, usability",
-      "mentions": 778,
-      "avgRating": 1.4,
+      "name": "Poor Subscription App",
+      "phrase": "app, features, tablet, device",
+      "mentions": 685,
+      "avgRating": 1.8,
       "trend": "STABLE",
       "prio": "LOW",
-      "insight": "Users find the app unreliable, overpriced, and frustrating, with many planning to cancel their subscriptions.",
+      "insight": "Users complain about the app's high cost with limited features and functionality.",
       "quotes": [
         [
           1,
-          "this app is just a waste of time and money",
-          "Dec 2024"
+          "the app is not worth the money, i paid to watch the movie and series i like",
+          "Apr 2020"
         ],
         [
           1,
-          "last 4 days can't open the app very poor experience and than y we gett the subscription plan waste of my money and time",
-          "Jan 2024"
-        ],
-        [
-          3,
-          "please fix this app before i choose to stop paying for it",
-          "Feb 2021"
+          "poor working app poor choices very expensive for what you get",
+          "Mar 2025"
         ],
         [
           1,
-          "this application is of the lowest quality there are no good movies there is nothing interesting and it is too commercial that someone takes me to get rid of it here even 1 star does not deserve other applications at least they have to watch free tv here in this garbage and it can't watch nothing big garbage man is this app",
-          "Jul 2021"
+          "worst app ever without paying you can't even sign in, it's better to use other ott platform",
+          "May 2024"
         ],
         [
           1,
-          "such a worst app.. i will paid the payment for first time",
-          "Jan 2025"
+          "they are not making good app. waste of money and time!!",
+          "Jun 2020"
         ],
         [
           1,
-          "this app is the absolute worst, not only does it include money grabbing its so greedy to the point if you want to watch some movies shows it freezes and their 'articles' doesnt even work!",
-          "Nov 2025"
+          "this app is totally waste and he doesn't allows without premium not opening this app is only for premium paying users not for middle class people don't download this app friends this is the first time i was giving review to an app worst app and worst experience",
+          "May 2024"
+        ],
+        [
+          5,
+          "don't bother wasting your precious time and money on other apps",
+          "Dec 2021"
         ]
       ]
     }
@@ -940,11 +940,11 @@
     ]
   },
   "ratingCounts": [
-    54401,
-    11136,
-    11829,
-    13597,
-    43108
+    54650,
+    11186,
+    11904,
+    13749,
+    44140
   ],
   "trend": {
     "Strength": [
@@ -970,7 +970,7 @@
       22.0,
       25.2,
       26.2,
-      36.4
+      38.7
     ],
     "Weakness": [
       44.7,
@@ -994,8 +994,8 @@
       50.3,
       47.8,
       46.9,
-      45.6,
-      37.2
+      45.5,
+      34.8
     ],
     "Opportunity": [
       17.1,
@@ -1020,7 +1020,7 @@
       12.0,
       10.9,
       10.7,
-      12.7
+      13.7
     ],
     "Threat": [
       9.7,
@@ -1045,7 +1045,7 @@
       18.2,
       16.9,
       17.6,
-      13.7
+      12.9
     ]
   },
   "volume": {
@@ -1076,7 +1076,7 @@
       4.7,
       4.3,
       4.2,
-      2.4
+      3.5
     ],
     "covid_range": [
       1,
