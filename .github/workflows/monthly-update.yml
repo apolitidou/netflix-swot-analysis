@@ -25,7 +25,10 @@ jobs:
           python-version: "3.11"
 
       - name: Install Kaggle CLI
-        run: pip install --quiet kaggle
+       run: |
+              python -m pip install --quiet kaggle six
+              python -m pip show six
+              kaggle --version
 
       - name: Trigger the Kaggle notebook run
         # Pushes the kernel folder, which starts a fresh run on Kaggle's GPU.
