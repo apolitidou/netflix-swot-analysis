@@ -1,0 +1,1438 @@
+{
+  "generated_at": "2026-11-14 22:12 UTC",
+  "period_label": "Jan 2020 – Oct 2026",
+  "meta": {
+    "total_reviews": 142474,
+    "total_opinions": 252290,
+    "avg_rating": 2.93,
+    "positive_share_pct": 44.5,
+    "coverage_pct": 100.0,
+    "macro_f1": 0.79
+  },
+  "history": [
+    {
+      "total_reviews": 130014,
+      "avg_rating": 2.83,
+      "positive_share_pct": 41.7
+    },
+    {
+      "total_reviews": 131324,
+      "avg_rating": 2.83,
+      "positive_share_pct": 41.8
+    },
+    {
+      "total_reviews": 133080,
+      "avg_rating": 2.84,
+      "positive_share_pct": 42.1
+    },
+    {
+      "total_reviews": 135745,
+      "avg_rating": 2.87,
+      "positive_share_pct": 42.7
+    },
+    {
+      "total_reviews": 139452,
+      "avg_rating": 2.9,
+      "positive_share_pct": 43.7
+    },
+    {
+      "total_reviews": 142474,
+      "avg_rating": 2.93,
+      "positive_share_pct": 44.5
+    }
+  ],
+  "quadTotals": {
+    "Strength": 933,
+    "Weakness": 409,
+    "Opportunity": 279,
+    "Threat": 246
+  },
+  "topics": [
+    {
+      "id": "s1",
+      "quad": "Strength",
+      "name": "Netflix Movie Selection",
+      "phrase": "movie night, netflix in our heart, netflix and chill, netflix for movie",
+      "mentions": 137,
+      "avgRating": 4.8,
+      "trend": "FALLING",
+      "prio": "HIGH",
+      "insight": "Customers praise extensive and excellent movie and show choices.",
+      "quotes": [
+        [
+          5,
+          "i love netflix they amazing movies",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "netflix is wonderful too have",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "netflix is such a great app to stream your favorite shows and movies",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "i've been choosing netflix for a long time now, whatever i'm in the mood for, i've found it here every time!!!",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "netflix has been so good lately!!!!",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "netflix has a great assortment of entertainment from documentaries, movies and so much more",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "s2",
+      "quad": "Strength",
+      "name": "Best Movie Platform",
+      "phrase": "satisfied, love the app, best app, best choice, best experience, best movie hub, best for watching movies, best app without any ads",
+      "mentions": 123,
+      "avgRating": 4.6,
+      "trend": "STABLE",
+      "prio": "HIGH",
+      "insight": "Users praise the extensive movie and show selection and service quality.",
+      "quotes": [
+        [
+          5,
+          "good app, love the movies",
+          "Oct 2026"
+        ],
+        [
+          4,
+          "it is the best streaming app out there",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "the app is easy to use and is great for relaxing and enjoying entertainment",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "this is very good platform and good for watching movies and shows and the thing i like the most about this app is its service",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "the best app in the world ever",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "love this apps and always using this to watch great movies, drama and series",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "s3",
+      "quad": "Strength",
+      "name": "Great Acting And Storyline",
+      "phrase": "great acting, wonderful storyline, outstanding performance, good storyline, captivating plot, feel good movie",
+      "mentions": 74,
+      "avgRating": 4.9,
+      "trend": "RISING",
+      "prio": "MEDIUM",
+      "insight": "Customers praise the acting and compelling storylines in the movies.",
+      "quotes": [
+        [
+          5,
+          "great acting and wonderful story line",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "it was a good movie",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "its was funny, real very enjoyable and trye sense of family bond the actors ,actressess were brilliant real this is a must watch",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "an incredibly nice movie...so meaningful and lovely",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "excellent adventure romp, loved it",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "it is a must watch movie",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "s4",
+      "quad": "Strength",
+      "name": "Exceptional Acting And Storytelling",
+      "phrase": "fantastic app, awesome movie, stunning scenery, amazing effects, sharp choreography, brilliant lead performance, perfect production",
+      "mentions": 74,
+      "avgRating": 4.8,
+      "trend": "RISING",
+      "prio": "MEDIUM",
+      "insight": "Customers praise the outstanding performances and compelling narrative.",
+      "quotes": [
+        [
+          5,
+          "awesome cast, director, authentic story lines",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "i was amazing movie i love it",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "it was captivating from beginning to end",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "i would definitely watch again",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "this movie is absolutely amazing the sexual",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "great show from start to finish!!!!!",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "s5",
+      "quad": "Strength",
+      "name": "Best Series Experience",
+      "phrase": "series, rewatch, decade",
+      "mentions": 62,
+      "avgRating": 4.8,
+      "trend": "STABLE",
+      "prio": "LOW",
+      "insight": "Customers highly recommend and enjoy the series immensely.",
+      "quotes": [
+        [
+          5,
+          "one of the best series i ever saw",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "it's number one show and great movies",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "absolutely brilliant movie and series that doesn't lose it value no matter the age of it...this is tge kind of movie",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "1st time watching it from the beginning absolutely loved it",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "amazing i love watching series best movie ever",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "a very easy to watch series with a good storyline",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "w1",
+      "quad": "Weakness",
+      "name": "Netflix Connectivity Issues",
+      "phrase": "netflix app, app not working, app update",
+      "mentions": 52,
+      "avgRating": 2.5,
+      "trend": "STABLE",
+      "prio": "HIGH",
+      "insight": "Users report frequent failures and difficulties accessing Netflix.",
+      "quotes": [
+        [
+          1,
+          "my experience with netflix is horrible it only worked for one day and stop working i haven't been able to use ever since",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "ever since the last update on 10 7 26 i've been unable to open netflix on my phone",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "now i can't even use netflix anymore it just always shows that",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "i still cannot watch my netflix change your turn on my netflix is not on",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "why i have to reinstall then install again everytime i open netflix",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "it show me that i can't use netflix anymore because i'm out of the house",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "w2",
+      "quad": "Weakness",
+      "name": "Video Playback Issues",
+      "phrase": "stop during watching, keep having to go in and out to get the thing to start playing",
+      "mentions": 27,
+      "avgRating": 2.1,
+      "trend": "STABLE",
+      "prio": "HIGH",
+      "insight": "Multiple users report consistent problems playing videos across devices.",
+      "quotes": [
+        [
+          1,
+          "start another new show and it does tge same thing to me",
+          "Oct 2026"
+        ],
+        [
+          2,
+          "my infinix 10gt pro cant watch any video",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "it's almost a month i can't watch on my android phone",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "everytime i watch something the picture freezes",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "the smarttv app tells me to unplug it for 30 sec to reset it since nothing plays",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "can't play episodes on cellular most of the time",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "w3",
+      "quad": "Weakness",
+      "name": "Limited Movie Selection",
+      "phrase": "none of the horror movies are good, supposed to be horror movies",
+      "mentions": 25,
+      "avgRating": 2.7,
+      "trend": "RISING",
+      "prio": "MEDIUM",
+      "insight": "Users complain about insufficient and unsatisfactory movie options.",
+      "quotes": [
+        [
+          1,
+          "doesn't have anything i'm actually looking for, none of the horror movies are good, like they only have pg-13 or really bad modern remakes",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "there are things you will not watch",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "every new movie has a message that says that i cannot watch this movie",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "i hardly find any movies or series i want to watch",
+          "Oct 2026"
+        ],
+        [
+          3,
+          "in this case, the movie i asked for will not come, so i can only give it three stars",
+          "Oct 2026"
+        ],
+        [
+          2,
+          "genuinely hate how they remove some movies like \"the hunger games\"",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "w4",
+      "quad": "Weakness",
+      "name": "Missing Movie Selection",
+      "phrase": "i notice a major difference, missing shows, we are traveling",
+      "mentions": 23,
+      "avgRating": 2.7,
+      "trend": "FALLING",
+      "prio": "LOW",
+      "insight": "Users complain about unavailable movies and shows being removed.",
+      "quotes": [
+        [
+          3,
+          "not all the movies are available",
+          "Oct 2026"
+        ],
+        [
+          2,
+          "netflix has seriously went down hill more foreign stuff than anything else all",
+          "Oct 2026"
+        ],
+        [
+          4,
+          "constantly removes iconic shows and movies",
+          "Oct 2026"
+        ],
+        [
+          4,
+          "they conveniently remove all movies i want to watch like the moment i get on",
+          "Oct 2026"
+        ],
+        [
+          4,
+          "it's just they don't release very much shows",
+          "Oct 2026"
+        ],
+        [
+          3,
+          "i notice a major difference in the movie catalog whenever i travel outside the united states",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "w5",
+      "quad": "Weakness",
+      "name": "App Compatibility Issues",
+      "phrase": "uninstall, reinstall, app stops working",
+      "mentions": 19,
+      "avgRating": 1.5,
+      "trend": "RISING",
+      "prio": "LOW",
+      "insight": "Users report frequent crashes and incompatibility across devices.",
+      "quotes": [
+        [
+          1,
+          "i couldn't open the app",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "it is updating every week causing it to stop working entirely",
+          "Oct 2026"
+        ],
+        [
+          4,
+          "right now im experiencing some glitching where when i open the app it will automatically go to my home page.. and i keep on deleting and installing this app, again and again .. please fix this issue",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "this app fell off gard for me",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "this app doesn't worked on my tablet ,please don't download this app",
+          "Oct 2026"
+        ],
+        [
+          3,
+          "most of the time we have to go out of the app and start all over",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "o1",
+      "quad": "Opportunity",
+      "name": "Movie Selection Limited",
+      "phrase": "movies, series, content",
+      "mentions": 44,
+      "avgRating": 3.6,
+      "trend": "RISING",
+      "prio": "HIGH",
+      "insight": "Customers request more recent and diverse movie options.",
+      "quotes": [
+        [
+          3,
+          "they need to add more movies",
+          "Oct 2026"
+        ],
+        [
+          2,
+          "please focus more on giving us any new release movies or series not old ones",
+          "Oct 2026"
+        ],
+        [
+          2,
+          "don't have all the movies",
+          "Oct 2026"
+        ],
+        [
+          2,
+          "more interesting movies would be nice",
+          "Oct 2026"
+        ],
+        [
+          4,
+          "ngl the best just needs some new movie ep",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "very interesting i so much love the move pls let the remaining movie come out quickly",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "o2",
+      "quad": "Opportunity",
+      "name": "Limited Show Availability",
+      "phrase": "chinese drama, anime, telugu, teenieping, demon slayer, anime, black butler, haunted hotel, horror movies, comedians, the rookie, al if chicago fire, the day of the jackal, sinchan, doramon, true documentary, dog, history",
+      "mentions": 20,
+      "avgRating": 3.2,
+      "trend": "STABLE",
+      "prio": "HIGH",
+      "insight": "Users complain about missing shows and content unavailable in their region.",
+      "quotes": [
+        [
+          1,
+          "not many shows available that truly interest me",
+          "Oct 2026"
+        ],
+        [
+          2,
+          "netflix you better but season 8 of my hero academia and make season 7 in english both in english",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "i love netflix.. crown prince and zhang linghe ki last series available kara dijiye",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "i subscribe to netflix years now, whenever theres a show, anime, or anything you want to watch it is not on netflix",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "think need to download some episodes and watch them at work when i'm not busy as i am on night duty now while i'm not busy",
+          "Oct 2026"
+        ],
+        [
+          4,
+          "most of the shows are not available in pakistan",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "o3",
+      "quad": "Opportunity",
+      "name": "Tamil Dubbing Requests",
+      "phrase": "hindi, kannada, telugu",
+      "mentions": 18,
+      "avgRating": 3.0,
+      "trend": "STABLE",
+      "prio": "MEDIUM",
+      "insight": "Customers ask for more Tamil-dubbed content including movies and series.",
+      "quotes": [
+        [
+          5,
+          "if we have more movies translated in my regional language tamil that would still be good to watch",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "not all movies and series are available and hindi language is mostly not available",
+          "Oct 2026"
+        ],
+        [
+          2,
+          "you prefer dubbed versions of kannada movies rather than originals like kantara, bagheera etc",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "hindi must b available in every movies and series because india and pakistan watch in hindi ... and all movies and series must b available like all marvel movies and series",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "tamil dubbing movies most of them r english translation",
+          "Oct 2026"
+        ],
+        [
+          2,
+          "netflix needs to add more tamil-dubbed anime, movies, and series",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "o4",
+      "quad": "Opportunity",
+      "name": "Season Requests",
+      "phrase": "season 3, season 4, season 5",
+      "mentions": 14,
+      "avgRating": 3.9,
+      "trend": "STABLE",
+      "prio": "LOW",
+      "insight": "Customers strongly desire additional seasons, particularly season 4 and 5.",
+      "quotes": [
+        [
+          5,
+          "please let there be a season 5!",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "waiting gor the 4th season",
+          "Oct 2026"
+        ],
+        [
+          4,
+          "i need the last season!!!",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "season 5 hoping soon..number 1 fan here",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "please add teenieping season 5 and 6",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "i love it so much that i want to stay until there's a season 5",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "o5",
+      "quad": "Opportunity",
+      "name": "More Seasons Requested",
+      "phrase": "new seasons, more shows, more episodes",
+      "mentions": 13,
+      "avgRating": 4.2,
+      "trend": "FALLING",
+      "prio": "LOW",
+      "insight": "Customers eagerly await and desire additional seasons of Rick and Morty.",
+      "quotes": [
+        [
+          5,
+          "i they need more seasons of these shows people want to see more of this kind of stuff",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "hoping for a season 2 possibly?",
+          "Oct 2026"
+        ],
+        [
+          4,
+          "just bring back some of the liked seasons",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "still waiting on the next season",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "can we have more rick and morty please",
+          "Oct 2026"
+        ],
+        [
+          3,
+          "could have more new titles",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "t1",
+      "quad": "Threat",
+      "name": "High Subscription Costs",
+      "phrase": "flexibility, plans, options, downgrade, multiple-screens",
+      "mentions": 46,
+      "avgRating": 2.3,
+      "trend": "RISING",
+      "prio": "HIGH",
+      "insight": "Customers complain about expensive and increasing subscription plans.",
+      "quotes": [
+        [
+          3,
+          "if they raise their subscription rates above 16- 18 a month i am going to have to opt out of this subscription plan and turn to a different subscriber",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "greedy as app like im already paying to watch the shows and stuff",
+          "Oct 2026"
+        ],
+        [
+          5,
+          "i personally love netflix, i honestly avoided signing up for it on my own bc",
+          "Oct 2026"
+        ],
+        [
+          3,
+          "i don't know why they intentionally make it so hard to cancel subscription or change debit cards",
+          "Oct 2026"
+        ],
+        [
+          4,
+          "why can't they go for yearly rentals with some benefit to subscribers?!!",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "why would i pay for something i can't even use because i moved to uni? other apps for watching movies and shows like disney , hbo, skyshowtime works normally and i don't have any problems with them",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "t2",
+      "quad": "Threat",
+      "name": "Subscription Auto-Renewal Issues",
+      "phrase": "random sign out, system automatically deducted, forced to put emails, end up having problems regarding a refund, end saying i need to pay for it again, unexpected charges",
+      "mentions": 18,
+      "avgRating": 1.2,
+      "trend": "RISING",
+      "prio": "HIGH",
+      "insight": "Customers repeatedly face unauthorized charges despite cancelling subscriptions.",
+      "quotes": [
+        [
+          3,
+          "what happens now that sucks i cancel the subscription, another profile reactivates it and my card is debited",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "this has happened to me the second time being today, right now... please, you guys should refund my money please",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "why is netflix stealing my money without my consentment ?",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "now i'm using this app by force just because i put my bank details on app",
+          "Oct 2026"
+        ],
+        [
+          3,
+          "this happened exactly after i cancelled my membership",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "sehow its still continuing and it kept draining my money?!",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "t3",
+      "quad": "Threat",
+      "name": "High Pricing Issues",
+      "phrase": "expensive, price, overcharged, greedy, high",
+      "mentions": 17,
+      "avgRating": 3.4,
+      "trend": "RISING",
+      "prio": "MEDIUM",
+      "insight": "Customers complain about rising and excessively high prices.",
+      "quotes": [
+        [
+          3,
+          "price is high and always rising!",
+          "Oct 2026"
+        ],
+        [
+          4,
+          "a bit too pricy though",
+          "Oct 2026"
+        ],
+        [
+          2,
+          "more expensive than it's worth",
+          "Oct 2026"
+        ],
+        [
+          4,
+          "the membership price is high",
+          "Oct 2026"
+        ],
+        [
+          4,
+          "it's a little too expensive",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "your prices are too damn high!",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "t4",
+      "quad": "Threat",
+      "name": "Refund Requests",
+      "phrase": "refund, charge, payment, billing, subscription",
+      "mentions": 17,
+      "avgRating": 1.3,
+      "trend": "RISING",
+      "prio": "MEDIUM",
+      "insight": "payed for nothing netflix",
+      "quotes": [
+        [
+          1,
+          "that's nothing but a.money grab and we're no longer customers",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "i'm on the verge of asking for my subscription refund",
+          "Oct 2026"
+        ],
+        [
+          2,
+          "this agent shreyas i tried to use the refund and i contacted one of your agents and i'm very disappointed because of how poor you handled people i expected it to be better",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "straight from my wallet gone because u automatically deducted it without me knowing!",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "they won't allow you to cancel!!!",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "you might want to get a refund for those paid reviews",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "t5",
+      "quad": "Threat",
+      "name": "Price Increases",
+      "phrase": "12 99, 19 99, expensive, overpriced, too expensive, pricey, costly, expensive, cheap, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive, expensive,",
+      "mentions": 15,
+      "avgRating": 3.4,
+      "trend": "FALLING",
+      "prio": "LOW",
+      "insight": "Customers complain about ongoing and unrelenting price hikes.",
+      "quotes": [
+        [
+          5,
+          "it's not quite as good as it used to be cost and value-wise",
+          "Oct 2026"
+        ],
+        [
+          2,
+          "why's the price keep getting higher,you keep the same shows too and doesn't add any other new shows that has been popular, whether it's a new or old one",
+          "Oct 2026"
+        ],
+        [
+          4,
+          "it would be better if you lower the price back to 1699 like it used to be with no ads on the family plan",
+          "Oct 2026"
+        ],
+        [
+          2,
+          "when did you guys get so expensive and why?",
+          "Oct 2026"
+        ],
+        [
+          4,
+          "wish the price would quit going up",
+          "Oct 2026"
+        ],
+        [
+          3,
+          "good but prices keep rising",
+          "Oct 2026"
+        ]
+      ]
+    }
+  ],
+  "heatmap": {
+    "Strength": [
+      9,
+      14,
+      20,
+      35,
+      68
+    ],
+    "Weakness": [
+      58,
+      60,
+      52,
+      34,
+      13
+    ],
+    "Opportunity": [
+      6,
+      10,
+      17,
+      24,
+      14
+    ],
+    "Threat": [
+      26,
+      16,
+      11,
+      8,
+      5
+    ]
+  },
+  "ratingCounts": [
+    55507,
+    11383,
+    12250,
+    14351,
+    48983
+  ],
+  "trend": {
+    "Strength": [
+      31.4,
+      26.0,
+      24.9,
+      25.8,
+      26.2,
+      26.0,
+      27.6,
+      21.0,
+      20.9,
+      18.6,
+      22.2,
+      19.7,
+      17.6,
+      20.4,
+      22.0,
+      20.6,
+      22.0,
+      25.3,
+      24.6,
+      26.2,
+      29.1,
+      30.1,
+      46.8
+    ],
+    "Weakness": [
+      42.8,
+      51.2,
+      52.8,
+      48.5,
+      46.8,
+      44.5,
+      47.6,
+      54.5,
+      45.5,
+      44.2,
+      45.1,
+      46.3,
+      46.6,
+      46.5,
+      43.8,
+      47.5,
+      46.0,
+      44.0,
+      43.7,
+      41.8,
+      41.5,
+      37.7,
+      26.1
+    ],
+    "Opportunity": [
+      13.8,
+      11.2,
+      11.3,
+      11.3,
+      11.2,
+      10.6,
+      11.7,
+      10.7,
+      10.0,
+      9.5,
+      9.8,
+      10.5,
+      10.0,
+      9.5,
+      11.1,
+      9.7,
+      9.9,
+      10.3,
+      9.0,
+      10.3,
+      9.2,
+      8.8,
+      11.7
+    ],
+    "Threat": [
+      12.0,
+      11.7,
+      11.0,
+      14.3,
+      15.9,
+      18.8,
+      13.1,
+      13.9,
+      23.7,
+      27.7,
+      22.8,
+      23.6,
+      25.7,
+      23.6,
+      23.2,
+      22.2,
+      22.1,
+      20.3,
+      22.6,
+      21.6,
+      20.2,
+      23.3,
+      15.4
+    ]
+  },
+  "volume": {
+    "counts": [
+      5.7,
+      8.3,
+      7.8,
+      6.8,
+      5.5,
+      4.7,
+      4.0,
+      3.5,
+      4.0,
+      3.7,
+      3.9,
+      3.4,
+      3.0,
+      3.2,
+      2.8,
+      3.8,
+      8.0,
+      9.6,
+      2.1,
+      7.8,
+      9.3,
+      6.1,
+      1.4,
+      4.3,
+      4.2,
+      4.1,
+      8.1
+    ],
+    "covid_range": [
+      1,
+      5
+    ],
+    "quarters": [
+      "2020Q1",
+      "2020Q2",
+      "2020Q3",
+      "2020Q4",
+      "2021Q1",
+      "2021Q2",
+      "2021Q3",
+      "2021Q4",
+      "2022Q1",
+      "2022Q2",
+      "2022Q3",
+      "2022Q4",
+      "2023Q1",
+      "2023Q2",
+      "2023Q3",
+      "2023Q4",
+      "2024Q1",
+      "2024Q2",
+      "2024Q3",
+      "2024Q4",
+      "2025Q1",
+      "2025Q2",
+      "2025Q3",
+      "2025Q4",
+      "2026Q1",
+      "2026Q2",
+      "2026Q3"
+    ],
+    "reviewCounts": [
+      5669,
+      8270,
+      7818,
+      6812,
+      5480,
+      4708,
+      4005,
+      3544,
+      4020,
+      3742,
+      3914,
+      3449,
+      2989,
+      3208,
+      2815,
+      3841,
+      8043,
+      9601,
+      2061,
+      7849,
+      9328,
+      6098,
+      1432,
+      4265,
+      4221,
+      4142,
+      8128
+    ],
+    "unit": "thousands_of_reviews"
+  },
+  "reportingMonth": "2026-10",
+  "previousMonth": "2026-09",
+  "lastCompleteQuarter": "2026Q3",
+  "monthlyStats": {
+    "2026-09": {
+      "raw_reviews": 3707,
+      "cleaned_reviews": 1966,
+      "opinion_segments": 3342
+    },
+    "2026-10": {
+      "raw_reviews": 3022,
+      "cleaned_reviews": 1537,
+      "opinion_segments": 2495
+    }
+  },
+  "opinionTotals": {
+    "Strength": 66827,
+    "Weakness": 113704,
+    "Opportunity": 28546,
+    "Threat": 43213
+  },
+  "monthlyOpinionTotals": {
+    "Strength": 1251,
+    "Weakness": 584,
+    "Opportunity": 314,
+    "Threat": 346
+  },
+  "monthlyReviewTotals": {
+    "Strength": 933,
+    "Weakness": 409,
+    "Opportunity": 279,
+    "Threat": 246
+  },
+  "kpiChanges": {
+    "review_growth_pct": 2.17,
+    "opinion_growth_pct": 1.0,
+    "avg_rating_delta": 0.03,
+    "positive_share_delta_pp": 0.79,
+    "monthly_reviews_delta_pct": -18.48,
+    "monthly_opinions_delta_pct": -25.34
+  },
+  "themeCount": 68,
+  "displayedThemeCount": 20,
+  "summary": {
+    "Strength": {
+      "topic_name": "Netflix Movie Selection",
+      "mentions": 137,
+      "trend": "FALLING",
+      "insight": "Customers praise extensive and excellent movie and show choices.",
+      "avg_rating": 4.8
+    },
+    "Weakness": {
+      "topic_name": "Netflix Connectivity Issues",
+      "mentions": 52,
+      "trend": "STABLE",
+      "insight": "Users report frequent failures and difficulties accessing Netflix.",
+      "avg_rating": 2.49
+    },
+    "Opportunity": {
+      "topic_name": "Movie Selection Limited",
+      "mentions": 44,
+      "trend": "RISING",
+      "insight": "Customers request more recent and diverse movie options.",
+      "avg_rating": 3.6
+    },
+    "Threat": {
+      "topic_name": "High Subscription Costs",
+      "mentions": 46,
+      "trend": "RISING",
+      "insight": "Customers complain about expensive and increasing subscription plans.",
+      "avg_rating": 2.27
+    }
+  },
+  "momentum": {
+    "rising": [
+      {
+        "swot": "Threat",
+        "topic_name": "High Subscription Costs",
+        "mentions": 46,
+        "change_pp": 4.89,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Threat",
+        "topic_name": "Subscription Auto-Renewal Issues",
+        "mentions": 18,
+        "change_pp": 2.9,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Weakness",
+        "topic_name": "App Compatibility Issues",
+        "mentions": 19,
+        "change_pp": 2.45,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Threat",
+        "topic_name": "High Pricing Issues",
+        "mentions": 17,
+        "change_pp": 1.94,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Strength",
+        "topic_name": "Exceptional Movie Experiences",
+        "mentions": 41,
+        "change_pp": 1.83,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Strength",
+        "topic_name": "Exceptional Acting And Storytelling",
+        "mentions": 74,
+        "change_pp": 1.65,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "Movie Selection Limited",
+        "mentions": 44,
+        "change_pp": 1.57,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Strength",
+        "topic_name": "Great Acting And Storyline",
+        "mentions": 74,
+        "change_pp": 1.49,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Weakness",
+        "topic_name": "Limited Movie Selection",
+        "mentions": 25,
+        "change_pp": 1.11,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Threat",
+        "topic_name": "Refund Requests",
+        "mentions": 17,
+        "change_pp": 1.11,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Weakness",
+        "topic_name": "Login Issues",
+        "mentions": 14,
+        "change_pp": 1.02,
+        "trend": "RISING"
+      }
+    ],
+    "falling": [
+      {
+        "swot": "Weakness",
+        "topic_name": "Chromecast Issues",
+        "mentions": 9,
+        "change_pp": -6.6,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Threat",
+        "topic_name": "Ad-Supported Model Complaints",
+        "mentions": 10,
+        "change_pp": -3.39,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Strength",
+        "topic_name": "Wide Selection",
+        "mentions": 11,
+        "change_pp": -2.21,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "Hindi Dubbing Requests",
+        "mentions": 5,
+        "change_pp": -1.9,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "More Seasons Requested",
+        "mentions": 13,
+        "change_pp": -1.87,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Strength",
+        "topic_name": "Easy Navigation And Wide Content",
+        "mentions": 58,
+        "change_pp": -1.72,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "New Releases",
+        "mentions": 4,
+        "change_pp": -1.69,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Threat",
+        "topic_name": "Content Availability",
+        "mentions": 7,
+        "change_pp": -1.57,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Strength",
+        "topic_name": "Subscription Value",
+        "mentions": 19,
+        "change_pp": -1.43,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Threat",
+        "topic_name": "Paid App Issues",
+        "mentions": 4,
+        "change_pp": -1.41,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Threat",
+        "topic_name": "Content Quality Decline",
+        "mentions": 15,
+        "change_pp": -1.36,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Threat",
+        "topic_name": "Price Increases",
+        "mentions": 15,
+        "change_pp": -1.36,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Strength",
+        "topic_name": "Netflix Movie Selection",
+        "mentions": 137,
+        "change_pp": -1.35,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Weakness",
+        "topic_name": "Missing Movie Selection",
+        "mentions": 23,
+        "change_pp": -1.18,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Weakness",
+        "topic_name": "Poor Customer Support",
+        "mentions": 5,
+        "change_pp": -1.18,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "Subtitles and Audio",
+        "mentions": 5,
+        "change_pp": -1.05,
+        "trend": "FALLING"
+      }
+    ]
+  },
+  "trendQuarters": [
+    "2021Q1",
+    "2021Q2",
+    "2021Q3",
+    "2021Q4",
+    "2022Q1",
+    "2022Q2",
+    "2022Q3",
+    "2022Q4",
+    "2023Q1",
+    "2023Q2",
+    "2023Q3",
+    "2023Q4",
+    "2024Q1",
+    "2024Q2",
+    "2024Q3",
+    "2024Q4",
+    "2025Q1",
+    "2025Q2",
+    "2025Q3",
+    "2025Q4",
+    "2026Q1",
+    "2026Q2",
+    "2026Q3"
+  ]
+}
