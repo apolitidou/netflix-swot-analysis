@@ -1,0 +1,2630 @@
+{
+  "generated_at": "2026-11-15 11:55 UTC",
+  "period_label": "Jan 2020 – Oct 2026",
+  "reportingMonth": "2026-10",
+  "previousMonth": "2026-09",
+  "lastCompleteQuarter": "2026Q3",
+  "swotScope": "historical",
+  "themeSelection": {
+    "method": "upper_quartile_of_historical_review_frequency",
+    "thresholds": {
+      "Strength": 1028.0,
+      "Weakness": 1892.0,
+      "Opportunity": 566.0,
+      "Threat": 1132.0
+    }
+  },
+  "meta": {
+    "total_reviews": 142474,
+    "total_opinions": 252290,
+    "avg_rating": 2.93,
+    "positive_share_pct": 44.5,
+    "macro_f1": 0.79
+  },
+  "history": [
+    {
+      "total_reviews": 130014,
+      "avg_rating": 2.83,
+      "positive_share_pct": 41.7
+    },
+    {
+      "total_reviews": 131324,
+      "avg_rating": 2.83,
+      "positive_share_pct": 41.8
+    },
+    {
+      "total_reviews": 133080,
+      "avg_rating": 2.84,
+      "positive_share_pct": 42.1
+    },
+    {
+      "total_reviews": 135745,
+      "avg_rating": 2.87,
+      "positive_share_pct": 42.7
+    },
+    {
+      "total_reviews": 139452,
+      "avg_rating": 2.9,
+      "positive_share_pct": 43.7
+    },
+    {
+      "total_reviews": 142474,
+      "avg_rating": 2.93,
+      "positive_share_pct": 44.5
+    }
+  ],
+  "quadTotals": {
+    "Strength": 49068,
+    "Weakness": 66262,
+    "Opportunity": 23529,
+    "Threat": 28818
+  },
+  "monthlyReviewTotals": {
+    "Strength": 933,
+    "Weakness": 409,
+    "Opportunity": 279,
+    "Threat": 246
+  },
+  "opinionTotals": {
+    "Strength": 66827,
+    "Weakness": 113704,
+    "Opportunity": 28546,
+    "Threat": 43213
+  },
+  "monthlyOpinionTotals": {
+    "Strength": 1251,
+    "Weakness": 584,
+    "Opportunity": 314,
+    "Threat": 346
+  },
+  "monthlyStats": {
+    "2026-09": {
+      "raw_reviews": 3707,
+      "cleaned_reviews": 1966,
+      "opinion_segments": 3342
+    },
+    "2026-10": {
+      "raw_reviews": 3022,
+      "cleaned_reviews": 1537,
+      "opinion_segments": 2495
+    }
+  },
+  "kpiChanges": {
+    "review_growth_pct": 2.17,
+    "opinion_growth_pct": 1.0,
+    "avg_rating_delta": 0.03,
+    "positive_share_delta_pp": 0.79,
+    "monthly_reviews_delta_pct": -18.48,
+    "monthly_opinions_delta_pct": -25.34
+  },
+  "themeCount": 168,
+  "displayedThemeCount": 45,
+  "topics": [
+    {
+      "id": "o1",
+      "quad": "Opportunity",
+      "name": "Limited Content Availability",
+      "phrase": "Hulu, Amazon Prime, HBO",
+      "mentions": 2392,
+      "avgRating": 2.9,
+      "trend": "FALLING",
+      "prio": "HIGH",
+      "insight": "Users complain about missing movies and shows compared to other platforms.",
+      "quotes": [
+        [
+          5,
+          "netflix please have a look into that it will be helpful for every one",
+          "Mar 2020"
+        ],
+        [
+          3,
+          "the movies and shows i want to watch are not on netflix",
+          "Dec 2020"
+        ],
+        [
+          3,
+          "hulu, prime video and hbo max are all better",
+          "Apr 2022"
+        ],
+        [
+          5,
+          "netflix is good for other tv shows platforms",
+          "Jun 2022"
+        ],
+        [
+          3,
+          "streaming are good and see without any problem that nice please put all streaming series,movies",
+          "Apr 2020"
+        ],
+        [
+          5,
+          "we have prime, hulu and others",
+          "Jan 2023"
+        ]
+      ]
+    },
+    {
+      "id": "o2",
+      "quad": "Opportunity",
+      "name": "Missing Shows and Movies",
+      "phrase": "missing, shows, movies",
+      "mentions": 2297,
+      "avgRating": 3.2,
+      "trend": "FALLING",
+      "prio": "HIGH",
+      "insight": "Users frequently complain about missing desired shows and movies.",
+      "quotes": [
+        [
+          4,
+          "some of the good shows and movies are not found here",
+          "Oct 2026"
+        ],
+        [
+          4,
+          "if netflix could add more shows and stop removing the series or movies!",
+          "May 2020"
+        ],
+        [
+          5,
+          "great selection of movies and tv shows, sure some seasons might be missing",
+          "Dec 2023"
+        ],
+        [
+          1,
+          "never have the shows movies i want to watch",
+          "May 2026"
+        ],
+        [
+          4,
+          "some movies tv series are just not available",
+          "Jan 2020"
+        ],
+        [
+          4,
+          "wish more my favorite shows movies were available",
+          "Feb 2023"
+        ]
+      ]
+    },
+    {
+      "id": "o3",
+      "quad": "Opportunity",
+      "name": "More Movie Options",
+      "phrase": "movies, series, content",
+      "mentions": 2022,
+      "avgRating": 3.6,
+      "trend": "RISING",
+      "prio": "HIGH",
+      "insight": "Customers request additional movies and TV series regularly.",
+      "quotes": [
+        [
+          5,
+          "movies shows but need more new movies",
+          "Jun 2026"
+        ],
+        [
+          4,
+          "needs more options if movies and maybe keep movies and series together",
+          "Feb 2022"
+        ],
+        [
+          5,
+          "they can put more movies please",
+          "Mar 2022"
+        ],
+        [
+          5,
+          "please add more films and series",
+          "Feb 2022"
+        ],
+        [
+          4,
+          "i would like more if netflix have more movies 'n series",
+          "Mar 2020"
+        ],
+        [
+          5,
+          "love the movies but add more movies",
+          "Jun 2024"
+        ]
+      ]
+    },
+    {
+      "id": "o4",
+      "quad": "Opportunity",
+      "name": "Tamil Dubbing Requests",
+      "phrase": "tamil-dubbed anime, movies, series",
+      "mentions": 1080,
+      "avgRating": 2.6,
+      "trend": "STABLE",
+      "prio": "HIGH",
+      "insight": "Customers ask for more Tamil-dubbed content on Netflix.",
+      "quotes": [
+        [
+          3,
+          "some of the movies are available in tamil",
+          "Sep 2026"
+        ],
+        [
+          2,
+          "netflix needs to add more tamil-dubbed anime, movies, and series",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "wee need some tamil dubbed moviez and anime",
+          "Mar 2024"
+        ],
+        [
+          5,
+          "some good series and movies are not in tamil dubbed",
+          "Dec 2024"
+        ],
+        [
+          4,
+          "please series in tamil dubbed",
+          "Jan 2025"
+        ],
+        [
+          2,
+          "most of the series and movies are not in tamil",
+          "Jul 2026"
+        ]
+      ]
+    },
+    {
+      "id": "o5",
+      "quad": "Opportunity",
+      "name": "Subtitle Language Options",
+      "phrase": "subtitles, languages, options",
+      "mentions": 1065,
+      "avgRating": 2.8,
+      "trend": "FALLING",
+      "prio": "MEDIUM",
+      "insight": "Users request more language options and better visibility for subtitles.",
+      "quotes": [
+        [
+          3,
+          "there are subtitles in different languages",
+          "Mar 2025"
+        ],
+        [
+          4,
+          "i recently realized that when you are travelling the subtitles options are narrowed to the country languages leaving you no options if you speak a different language",
+          "Mar 2022"
+        ],
+        [
+          1,
+          "only the local language available for subtitles... thanks for that, really convinient",
+          "Sep 2022"
+        ],
+        [
+          3,
+          "i wish the language and subtitles were listed with the main description of the movies and tv shows",
+          "Feb 2020"
+        ],
+        [
+          1,
+          "can netflix add bilingual subtitle please?",
+          "Nov 2023"
+        ],
+        [
+          4,
+          "it would be nice if subtitles for other languages were available",
+          "Feb 2020"
+        ]
+      ]
+    },
+    {
+      "id": "o6",
+      "quad": "Opportunity",
+      "name": "Missing Seasons",
+      "phrase": "seasons, episodes, complete",
+      "mentions": 1013,
+      "avgRating": 3.6,
+      "trend": "STABLE",
+      "prio": "MEDIUM",
+      "insight": "Customers demand complete seasons for series they enjoy.",
+      "quotes": [
+        [
+          2,
+          "if you're going to show a series get all the seasons",
+          "Jun 2025"
+        ],
+        [
+          5,
+          "the seasons need to be completed",
+          "Apr 2021"
+        ],
+        [
+          4,
+          "i would love to see more seasons",
+          "Dec 2024"
+        ],
+        [
+          4,
+          "what about the other seasons?",
+          "May 2020"
+        ],
+        [
+          4,
+          "some series lacks more seasons",
+          "Jun 2020"
+        ],
+        [
+          3,
+          "their are no more seasons pls release all of the seasons i beg of youuuu",
+          "Feb 2023"
+        ]
+      ]
+    },
+    {
+      "id": "o7",
+      "quad": "Opportunity",
+      "name": "Regional Content Availability",
+      "phrase": "international, series, movies",
+      "mentions": 1011,
+      "avgRating": 3.2,
+      "trend": "STABLE",
+      "prio": "MEDIUM",
+      "insight": "Users request more diverse and localized film and TV options.",
+      "quotes": [
+        [
+          5,
+          "i feel u can make available more films and dramas from other countries also for eg italy, china also many dramas availabe in netflix usa not available here",
+          "Apr 2020"
+        ],
+        [
+          5,
+          "needs more movies that are available in different countries",
+          "Jul 2020"
+        ],
+        [
+          3,
+          "it would be better if they offer lots of assortments movies and series like that of the other countries",
+          "Aug 2020"
+        ],
+        [
+          5,
+          "try to avail series and films in more languages than english only",
+          "Aug 2023"
+        ],
+        [
+          4,
+          "netflix should also bring some more regional contents",
+          "May 2022"
+        ],
+        [
+          3,
+          "i think you should make all regional movies and series available for every country,many of us wants to watch other country movies",
+          "Jun 2025"
+        ]
+      ]
+    },
+    {
+      "id": "o8",
+      "quad": "Opportunity",
+      "name": "Anime Content Request",
+      "phrase": "anime, shows, movies, seasons, new, content, franchise, episodes, series, trailers",
+      "mentions": 872,
+      "avgRating": 3.9,
+      "trend": "FALLING",
+      "prio": "LOW",
+      "insight": "Users demand more anime series, movies, and original content.",
+      "quotes": [
+        [
+          5,
+          "i wish that add more show like more anime or something like that",
+          "Apr 2020"
+        ],
+        [
+          5,
+          "please add more content especially anime!",
+          "May 2020"
+        ],
+        [
+          5,
+          "need to add more series in anim and movies eg. dragon ball series, movie's, etc",
+          "Apr 2020"
+        ],
+        [
+          4,
+          "i don't get to watch the whole part of it, also please add more animes u guys have too less animes",
+          "May 2024"
+        ],
+        [
+          2,
+          "would like it more if there was more anime and if you actually put anime and not netflix adaptions",
+          "Oct 2020"
+        ],
+        [
+          3,
+          "they need to add more animes, movies and series",
+          "Feb 2021"
+        ]
+      ]
+    },
+    {
+      "id": "o9",
+      "quad": "Opportunity",
+      "name": "Watch Later Improvements",
+      "phrase": "watch later, watch later, watch later",
+      "mentions": 716,
+      "avgRating": 3.2,
+      "trend": "RISING",
+      "prio": "LOW",
+      "insight": "Users request sorting options, marking as watched, and better organization for watch later lists.",
+      "quotes": [
+        [
+          2,
+          "one thing i've always been annoyed by is that you can't filter your watch later list, like alphabetically or even by \"leaving soon\" so you know to watch them",
+          "Sep 2023"
+        ],
+        [
+          4,
+          "i hope the you can add that thing for the users who wanted to watch something at the same time",
+          "Sep 2022"
+        ],
+        [
+          3,
+          "i would love to see the button to mark something as already watched",
+          "Apr 2020"
+        ],
+        [
+          5,
+          "it'd be really useful to have a \"watch later\" option, other than that great app!",
+          "Nov 2020"
+        ],
+        [
+          5,
+          "my dudes it would be awesome if you could add a watch later button, better yet, make it so that we could sort those stuff in watch later into different genres",
+          "Apr 2021"
+        ],
+        [
+          5,
+          "one thing tho is that there should be an option to toggle on or off for the thing that shows \"continue to watch tv series \" i dont know if that made any sense",
+          "Oct 2020"
+        ]
+      ]
+    },
+    {
+      "id": "o10",
+      "quad": "Opportunity",
+      "name": "Streaming Quality Control",
+      "phrase": "picture, quality, streaming",
+      "mentions": 599,
+      "avgRating": 3.1,
+      "trend": "RISING",
+      "prio": "LOW",
+      "insight": "Users request manual control over streaming quality settings.",
+      "quotes": [
+        [
+          1,
+          "kindly add the option to change the streaming quality online",
+          "Jan 2021"
+        ],
+        [
+          4,
+          "there should be a way to adust video quality while streaming",
+          "Sep 2022"
+        ],
+        [
+          1,
+          "video quality should be changed in netflix",
+          "Nov 2023"
+        ],
+        [
+          3,
+          "please give us a setting where we can change the streaming quality",
+          "Jan 2021"
+        ],
+        [
+          4,
+          "please put the feature where i can change the video quality on the streaming screen",
+          "Jan 2021"
+        ],
+        [
+          1,
+          "try to get more updates for the tv app .it desperately needs an update with more customisable options for the quality and stuffs",
+          "Oct 2020"
+        ]
+      ]
+    },
+    {
+      "id": "o11",
+      "quad": "Opportunity",
+      "name": "Feature Requests",
+      "phrase": "features, functionalities, improvements",
+      "mentions": 579,
+      "avgRating": 3.0,
+      "trend": "STABLE",
+      "prio": "LOW",
+      "insight": "Customers suggest additional features to enhance the app's functionality.",
+      "quotes": [
+        [
+          3,
+          "it would have been much better if we had the below features in the app",
+          "Sep 2020"
+        ],
+        [
+          4,
+          "i think more descriptive info about apps would be better",
+          "Mar 2023"
+        ],
+        [
+          1,
+          "i am requesting to the developer of this app please focus on it",
+          "Dec 2024"
+        ],
+        [
+          3,
+          "i hope you will improve the app by addind these",
+          "Apr 2020"
+        ],
+        [
+          1,
+          "i only suggest that if you put this kind of apps in smart phone please dont be so hard to get",
+          "Oct 2023"
+        ],
+        [
+          5,
+          "i think the app needs some more features and some film i would really love it if it had all this feature",
+          "Aug 2023"
+        ]
+      ]
+    },
+    {
+      "id": "s1",
+      "quad": "Strength",
+      "name": "User-Friendly Interface",
+      "phrase": "easy to use, lightweight, no ads, great app, best app, easy to find movies",
+      "mentions": 18414,
+      "avgRating": 4.2,
+      "trend": "FALLING",
+      "prio": "HIGH",
+      "insight": "Customers praise its ease of use and vast content library.",
+      "quotes": [
+        [
+          5,
+          "great app for movies, series, i love it and on top of that there are no ads which are more cool",
+          "Dec 2020"
+        ],
+        [
+          5,
+          "i love this app, netflix is the best in movies, price value and great service",
+          "Dec 2020"
+        ],
+        [
+          5,
+          "the app is smooth, user-friendly, and has a huge collection of movies and shows",
+          "Feb 2026"
+        ],
+        [
+          5,
+          "nice app easy to access and lot of fun movies to watch",
+          "Mar 2022"
+        ],
+        [
+          5,
+          "i like this app alot it's easy to use and always had good movies sometimes they have so much on here you want to watch anything it's addicting which is good",
+          "Oct 2021"
+        ],
+        [
+          4,
+          "over all it is a great app beacuse there are very interesting movies",
+          "Mar 2021"
+        ]
+      ]
+    },
+    {
+      "id": "s2",
+      "quad": "Strength",
+      "name": "Movie And TV Library",
+      "phrase": "best, movies, series",
+      "mentions": 3524,
+      "avgRating": 4.5,
+      "trend": "STABLE",
+      "prio": "HIGH",
+      "insight": "Customers praise the extensive collection of films and series available.",
+      "quotes": [
+        [
+          5,
+          "great library of movies and series",
+          "May 2020"
+        ],
+        [
+          5,
+          "netflix has an awesome collection of shows and movies",
+          "Jul 2020"
+        ],
+        [
+          5,
+          "great library of shows and movies",
+          "Dec 2022"
+        ],
+        [
+          5,
+          "love netflix great films an box sets!",
+          "Apr 2020"
+        ],
+        [
+          5,
+          "the library of movies series are amazing",
+          "Sep 2020"
+        ],
+        [
+          5,
+          "love netflix and the choice of movies and series",
+          "Oct 2026"
+        ]
+      ]
+    },
+    {
+      "id": "s3",
+      "quad": "Strength",
+      "name": "Streaming Quality",
+      "phrase": "high-quality streaming, clear, works well",
+      "mentions": 3242,
+      "avgRating": 3.6,
+      "trend": "FALLING",
+      "prio": "HIGH",
+      "insight": "Reviews mention streaming quality.",
+      "quotes": [
+        [
+          5,
+          "excellent quality streaming and excellent picture quality",
+          "Mar 2021"
+        ],
+        [
+          3,
+          "the streaming is good quality",
+          "May 2020"
+        ],
+        [
+          5,
+          "the streaming quality is clear and smooth",
+          "Feb 2026"
+        ],
+        [
+          5,
+          "streaming quality is top-notch perfect for movie nights",
+          "Oct 2025"
+        ],
+        [
+          5,
+          "the streaming quality is good",
+          "Feb 2026"
+        ],
+        [
+          5,
+          "streaming is smooth and content quality is high",
+          "Jan 2026"
+        ]
+      ]
+    },
+    {
+      "id": "s4",
+      "quad": "Strength",
+      "name": "Longtime Satisfaction",
+      "phrase": "community needs, public and netflix customers, making this message",
+      "mentions": 2481,
+      "avgRating": 3.3,
+      "trend": "STABLE",
+      "prio": "HIGH",
+      "insight": "Customers express long-term loyalty and enjoyment of Netflix.",
+      "quotes": [
+        [
+          2,
+          "don't get me wrong, i love netflix",
+          "Apr 2023"
+        ],
+        [
+          5,
+          "netflix has been providing quality entertainment to me and my family for nearly 20 years",
+          "Jun 2021"
+        ],
+        [
+          4,
+          "netflix still remains the gold standard of modern entertainment, completely transforming how the world consumes media",
+          "Jun 2026"
+        ],
+        [
+          1,
+          "i have been a customer at netflix for years now",
+          "Aug 2023"
+        ],
+        [
+          3,
+          "i love netflix longtime customer",
+          "Apr 2021"
+        ],
+        [
+          1,
+          "i have been with and loved my netflix for years",
+          "Dec 2023"
+        ]
+      ]
+    },
+    {
+      "id": "s5",
+      "quad": "Strength",
+      "name": "Movie & Show Variety",
+      "phrase": "anything, movies, series",
+      "mentions": 2460,
+      "avgRating": 4.3,
+      "trend": "FALLING",
+      "prio": "MEDIUM",
+      "insight": "Customers praise the extensive range of films and TV shows available.",
+      "quotes": [
+        [
+          4,
+          "good variety of movies and shows",
+          "Jul 2026"
+        ],
+        [
+          1,
+          "i like netflix good series and movies",
+          "Feb 2022"
+        ],
+        [
+          3,
+          "netflix has a great selection of shows and movies",
+          "May 2022"
+        ],
+        [
+          4,
+          "a decent selection of movies and television shows",
+          "Jan 2023"
+        ],
+        [
+          4,
+          "great variety of movies tv shows to chose from",
+          "Jan 2020"
+        ],
+        [
+          5,
+          "a wide variety of good movies and tv shows",
+          "Oct 2020"
+        ]
+      ]
+    },
+    {
+      "id": "s6",
+      "quad": "Strength",
+      "name": "Netflix Movie Nights",
+      "phrase": "movie night, netflix and chill, movie night, watch a bunch more times",
+      "mentions": 2133,
+      "avgRating": 4.2,
+      "trend": "STABLE",
+      "prio": "MEDIUM",
+      "insight": "Customers enjoy relaxing and watching movies on Netflix for entertainment.",
+      "quotes": [
+        [
+          5,
+          "i love to just netflix and chill and the movies are so good",
+          "May 2024"
+        ],
+        [
+          5,
+          "nothing better than netflix and chill",
+          "Nov 2025"
+        ],
+        [
+          5,
+          "i love netflix n love a gud movie night",
+          "Apr 2021"
+        ],
+        [
+          5,
+          "netflix is an amazing way to relax and watch what you love, it has great shows and movies",
+          "Mar 2020"
+        ],
+        [
+          5,
+          "i often pass my evening with netflix",
+          "Apr 2024"
+        ],
+        [
+          5,
+          "netflix is my go-to for movie nights!",
+          "Feb 2025"
+        ]
+      ]
+    },
+    {
+      "id": "s7",
+      "quad": "Strength",
+      "name": "Best Entertainment App",
+      "phrase": "best app, amazing app, awesome app",
+      "mentions": 2020,
+      "avgRating": 4.2,
+      "trend": "STABLE",
+      "prio": "MEDIUM",
+      "insight": "Customers find the app highly enjoyable and entertaining.",
+      "quotes": [
+        [
+          5,
+          "this app is one of the greatest in terms of entertainment",
+          "Nov 2023"
+        ],
+        [
+          1,
+          "this app was very enjoyable",
+          "Aug 2021"
+        ],
+        [
+          5,
+          "this app is most amazing",
+          "May 2024"
+        ],
+        [
+          5,
+          "absolutely love this app, perfect for entertainment",
+          "Nov 2023"
+        ],
+        [
+          5,
+          "this app is awesome, fun and entertaining",
+          "Apr 2020"
+        ],
+        [
+          5,
+          "this is the best app the was ever invented",
+          "Nov 2020"
+        ]
+      ]
+    },
+    {
+      "id": "s8",
+      "quad": "Strength",
+      "name": "Mobile App Usability",
+      "phrase": "phone, app, mobile",
+      "mentions": 1440,
+      "avgRating": 2.8,
+      "trend": "STABLE",
+      "prio": "MEDIUM",
+      "insight": "Users find the app particularly user-friendly and enjoyable on mobile devices.",
+      "quotes": [
+        [
+          2,
+          "app is good on phone",
+          "Apr 2020"
+        ],
+        [
+          2,
+          "the app is more user friendly using a mobile device",
+          "Jul 2022"
+        ],
+        [
+          1,
+          "when i use this app on my phone",
+          "Feb 2021"
+        ],
+        [
+          1,
+          "what did you do the mobile app?",
+          "Apr 2020"
+        ],
+        [
+          2,
+          "i got a nice experience while i am using it in mobile app",
+          "Apr 2024"
+        ],
+        [
+          5,
+          "the phone is great with the app",
+          "Dec 2022"
+        ]
+      ]
+    },
+    {
+      "id": "s9",
+      "quad": "Strength",
+      "name": "Binge Watching Hub",
+      "phrase": "binge, shows, episodes",
+      "mentions": 1090,
+      "avgRating": 4.2,
+      "trend": "STABLE",
+      "prio": "LOW",
+      "insight": "Netflix offers extensive options for binge-worthy shows and series.",
+      "quotes": [
+        [
+          5,
+          "the best thing for binge watchers",
+          "Oct 2020"
+        ],
+        [
+          5,
+          "many shows and so much options to binge!",
+          "Dec 2022"
+        ],
+        [
+          5,
+          "i love binge watching, on my netflix account",
+          "Nov 2020"
+        ],
+        [
+          4,
+          "nothing is more enjoyable then binge watching your new favorite show",
+          "Nov 2025"
+        ],
+        [
+          5,
+          "we all love a good show binge on netflix",
+          "Jun 2026"
+        ],
+        [
+          5,
+          "great app to binge most of your favorite shows",
+          "Jul 2020"
+        ]
+      ]
+    },
+    {
+      "id": "s10",
+      "quad": "Strength",
+      "name": "Stranger Things Fans",
+      "phrase": "stranger things, tadc, favorite shows, favorite movies, favorite series",
+      "mentions": 1052,
+      "avgRating": 4.4,
+      "trend": "STABLE",
+      "prio": "LOW",
+      "insight": "Many reviewers express love for Stranger Things and other shows on Netflix.",
+      "quotes": [
+        [
+          4,
+          "i love the shows, and movies netflix give's",
+          "Aug 2020"
+        ],
+        [
+          5,
+          "i love netflix and more wednesday and stranger things love",
+          "Feb 2026"
+        ],
+        [
+          3,
+          "wonderful shows and films, like stranger things and tmvstm",
+          "Jun 2021"
+        ],
+        [
+          5,
+          "i have a few favorite shows",
+          "Nov 2020"
+        ],
+        [
+          4,
+          "i love watching movies and it have many different types of movies and shows one of my favs is stranger things",
+          "Oct 2022"
+        ],
+        [
+          5,
+          "i love netflix and all the shows",
+          "Mar 2022"
+        ]
+      ]
+    },
+    {
+      "id": "s11",
+      "quad": "Strength",
+      "name": "Classic Series Rewatch",
+      "phrase": "10 year series, watching again",
+      "mentions": 1028,
+      "avgRating": 4.1,
+      "trend": "RISING",
+      "prio": "LOW",
+      "insight": "Reviews mention classic series rewatch.",
+      "quotes": [
+        [
+          4,
+          "i find series to watch time and time again",
+          "Jan 2024"
+        ],
+        [
+          4,
+          "watched interesting series i never would have watched on cable and enjoyed watching it",
+          "Mar 2020"
+        ],
+        [
+          3,
+          "it's my favorite tv show ever, i've not seen a series more amazing than this",
+          "May 2024"
+        ],
+        [
+          3,
+          "it is every good to watch series",
+          "Jun 2020"
+        ],
+        [
+          5,
+          "love watching episodes how series",
+          "Apr 2024"
+        ],
+        [
+          5,
+          "very good original series and movies 10 10 !",
+          "Jan 2020"
+        ]
+      ]
+    },
+    {
+      "id": "s12",
+      "quad": "Strength",
+      "name": "Movie Quality",
+      "phrase": "fantastic app, awesome movie, stunning scenery, amazing effects, sharp choreography, brilliant lead performance, perfect production",
+      "mentions": 1028,
+      "avgRating": 4.4,
+      "trend": "STABLE",
+      "prio": "LOW",
+      "insight": "Customers praise high production quality, direction, and overall viewing experience.",
+      "quotes": [
+        [
+          5,
+          "very quality and satisfied of all movie",
+          "May 2025"
+        ],
+        [
+          4,
+          "pretty amazingn the production, direction, scripts .. love it",
+          "Nov 2023"
+        ],
+        [
+          4,
+          "amazing experience , great movies and dealt with viewers the right way !!!",
+          "Apr 2025"
+        ],
+        [
+          5,
+          "nicely directed with good actors",
+          "Apr 2020"
+        ],
+        [
+          5,
+          "amazing, brilliant good quality film's and more",
+          "Sep 2021"
+        ],
+        [
+          5,
+          "the story was engaging, the production quality was great, and it kept me interested from start to finish",
+          "Aug 2026"
+        ]
+      ]
+    },
+    {
+      "id": "t1",
+      "quad": "Threat",
+      "name": "Auto-Renewing Subscriptions",
+      "phrase": "charge, charge twice, automatic charge",
+      "mentions": 5213,
+      "avgRating": 1.6,
+      "trend": "RISING",
+      "prio": "HIGH",
+      "insight": "Customers repeatedly charged for subscriptions they did not authorize.",
+      "quotes": [
+        [
+          1,
+          "now after subscription over it charges again automatically",
+          "Aug 2026"
+        ],
+        [
+          1,
+          "i keep getting billed for subscription",
+          "Dec 2022"
+        ],
+        [
+          1,
+          "i need to pay again to start my subscription this is so wrong",
+          "Jan 2022"
+        ],
+        [
+          1,
+          "deducted the money twice for subscription, very bad experience",
+          "Apr 2025"
+        ],
+        [
+          1,
+          "i have paid already subscription fees more than 3 times",
+          "Oct 2025"
+        ],
+        [
+          2,
+          "you can change your payment option to recharge instead of subscription...it is better than subscription",
+          "Apr 2020"
+        ]
+      ]
+    },
+    {
+      "id": "t2",
+      "quad": "Threat",
+      "name": "Subscription Cancellation Issues",
+      "phrase": "cancel, cancel membership, refund",
+      "mentions": 3187,
+      "avgRating": 1.3,
+      "trend": "RISING",
+      "prio": "HIGH",
+      "insight": "Customers struggle to cancel subscriptions and face repeated reactivation.",
+      "quotes": [
+        [
+          1,
+          "the customer service person who i talked today about the issue i was facing at the moment was forcing me to cancel the membership, which i did",
+          "Mar 2024"
+        ],
+        [
+          1,
+          "we have tried to cancel our subscription many times",
+          "Nov 2023"
+        ],
+        [
+          1,
+          "i am paying my money for them to enjoy their services complete 30 days.i will not restart my membership again in my lifetim",
+          "Jul 2023"
+        ],
+        [
+          1,
+          "we will be canceling all together, there are much better services who don't treat their customers like trash",
+          "Oct 2022"
+        ],
+        [
+          3,
+          "i decided to cancel the membership",
+          "Jan 2022"
+        ],
+        [
+          1,
+          "asked for a refund of the monthly fee and was told they would cancel my subscription",
+          "Feb 2025"
+        ]
+      ]
+    },
+    {
+      "id": "t3",
+      "quad": "Threat",
+      "name": "Content Quality Decline",
+      "phrase": "quality, decreased, poor, content, shows, movies",
+      "mentions": 2645,
+      "avgRating": 1.7,
+      "trend": "FALLING",
+      "prio": "HIGH",
+      "insight": "Users complain about deteriorating show and movie quality despite price increases.",
+      "quotes": [
+        [
+          1,
+          "honestly the quality of netflix has gone down",
+          "Aug 2023"
+        ],
+        [
+          1,
+          "the quality of shows and movies has dropped drastically as they keep raising prices",
+          "Apr 2022"
+        ],
+        [
+          2,
+          "while lacking good content, your favorite content are constantly being obsolete and removed by netflix",
+          "Nov 2023"
+        ],
+        [
+          1,
+          "netflix has become one of the most expensive streaming services around while the quality of shows is declining",
+          "Aug 2022"
+        ],
+        [
+          3,
+          "netflix has been steadily declining",
+          "May 2023"
+        ],
+        [
+          2,
+          "they are getting rid of all the good movies and shows and it's almost not worth paying for it anymore",
+          "Jan 2020"
+        ]
+      ]
+    },
+    {
+      "id": "t4",
+      "quad": "Threat",
+      "name": "High Content Costs",
+      "phrase": "expensive, costly, overpricing",
+      "mentions": 2562,
+      "avgRating": 1.6,
+      "trend": "STABLE",
+      "prio": "HIGH",
+      "insight": "Users complain about expensive content despite its quality.",
+      "quotes": [
+        [
+          3,
+          "content is good but costly",
+          "Mar 2022"
+        ],
+        [
+          1,
+          "the new pricing structure for the provided content is, to put it kindly, absurd",
+          "Jul 2022"
+        ],
+        [
+          1,
+          "price gouging for mediocre content",
+          "Feb 2024"
+        ],
+        [
+          3,
+          "great content but getting more expensive every day",
+          "Sep 2026"
+        ],
+        [
+          1,
+          "content good, but price is exorbitant",
+          "May 2021"
+        ],
+        [
+          1,
+          "content stinks - too expensive",
+          "Mar 2022"
+        ]
+      ]
+    },
+    {
+      "id": "t5",
+      "quad": "Threat",
+      "name": "High Pricing Complaints",
+      "phrase": "compare, hulu, disney, amazon, alternatives, options, cheaper",
+      "mentions": 2439,
+      "avgRating": 1.9,
+      "trend": "STABLE",
+      "prio": "MEDIUM",
+      "insight": "Customers complain about Netflix's high costs and poor value for money.",
+      "quotes": [
+        [
+          2,
+          "more expensive service for less options... ffs netflix",
+          "Apr 2023"
+        ],
+        [
+          1,
+          "i recommend hulu netflix has old movies and shows and wants to make more off you even kids my kid can't watch tv thanks rip off",
+          "Apr 2024"
+        ],
+        [
+          3,
+          "i will tell you netflix, if you so much as raise a penny more, i and many people more will drop you like a bad habit!",
+          "Oct 2023"
+        ],
+        [
+          1,
+          "netflix is very costly in terms of service, prime video and disney hotstar gives 10 times better service while they charge 10-15 times less",
+          "Sep 2020"
+        ],
+        [
+          3,
+          "i like netflix, but the only issue is the pricing",
+          "Apr 2020"
+        ],
+        [
+          1,
+          "netflix you seriously suck and you don't have enough new content seriously don't bother it's a rip off",
+          "Oct 2024"
+        ]
+      ]
+    },
+    {
+      "id": "t6",
+      "quad": "Threat",
+      "name": "Household Subscription Issues",
+      "phrase": "household, restrictions, honor, multiple, devices",
+      "mentions": 1558,
+      "avgRating": 1.5,
+      "trend": "RISING",
+      "prio": "MEDIUM",
+      "insight": "Customers complain about the new household policy requiring additional payments per device.",
+      "quotes": [
+        [
+          1,
+          "it requires household members now to get subscription and has multiple issues",
+          "May 2024"
+        ],
+        [
+          1,
+          "netflix's household policy is unfair and disregards legitimate users",
+          "Feb 2025"
+        ],
+        [
+          1,
+          "the change to limiting netflix to one household prevents me from using the subscription, it wants me to add a member for each device",
+          "Apr 2026"
+        ],
+        [
+          1,
+          "\"your devices isn't part of this netflix household\" annoying ahh subscription service",
+          "Feb 2025"
+        ],
+        [
+          1,
+          "if this doesn't change, and you threaten to lockout my other household, then you lose one other subscription along with the many others you are already losing",
+          "Jan 2024"
+        ],
+        [
+          1,
+          "not nice to see what they've done to stop families being able to share subscriptions",
+          "Jun 2023"
+        ]
+      ]
+    },
+    {
+      "id": "t7",
+      "quad": "Threat",
+      "name": "Expensive Subscription",
+      "phrase": "app, crashes, works, tv, phone, set-top, lag, update, features",
+      "mentions": 1439,
+      "avgRating": 1.8,
+      "trend": "STABLE",
+      "prio": "MEDIUM",
+      "insight": "Users complain about the high cost despite limited content updates and availability.",
+      "quotes": [
+        [
+          1,
+          "crappy app no quality of shows inconsistent at this point hulu or even roku is free so i am cancelling also this app decided to incre6 the price even though they hardly have any shows",
+          "Jan 2021"
+        ],
+        [
+          1,
+          "the app is not worth the money, i paid to watch the movie and series i like",
+          "Apr 2020"
+        ],
+        [
+          1,
+          "very worst app it's subscription cost is too high i can't afford it they should learn something from hotstar and amazon prime video about the subscription plan",
+          "Sep 2021"
+        ],
+        [
+          1,
+          "i cannot rate an app that doesn't work...so disappointed... the great netflix i have been watching on my television is now becoming an eraser... love the shows...hate the service",
+          "May 2020"
+        ],
+        [
+          3,
+          "really good app the only issue i can find is that i am paying 12.99 a month and can't watch my favourite programmes or films",
+          "May 2024"
+        ],
+        [
+          1,
+          "very useless app total waste of funds as i can't even watch downloaded movie even after monthly subscription",
+          "Dec 2023"
+        ]
+      ]
+    },
+    {
+      "id": "t8",
+      "quad": "Threat",
+      "name": "App Quality Deterioration",
+      "phrase": "ruined, household",
+      "mentions": 1401,
+      "avgRating": 1.3,
+      "trend": "RISING",
+      "prio": "LOW",
+      "insight": "Users express strong dissatisfaction, stating the app has become poor quality and they will not use it again.",
+      "quotes": [
+        [
+          1,
+          "cancelled subscription and never coming back again and won't recommend to any friends or family and i will strongly condemn the app everywhere",
+          "Jan 2023"
+        ],
+        [
+          1,
+          "horrible app that i'm never going to pay for again",
+          "Mar 2024"
+        ],
+        [
+          1,
+          "you're ruining your app by putting on the household thing you'll lose quit a lot of customers because of this",
+          "Apr 2024"
+        ],
+        [
+          1,
+          "way to go and ruin a once already app",
+          "Jun 2023"
+        ],
+        [
+          1,
+          "what the hell did you do to my app i pay money for this app",
+          "Feb 2021"
+        ],
+        [
+          1,
+          "will never launch the app again due to terrible decisions by this company",
+          "Mar 2024"
+        ]
+      ]
+    },
+    {
+      "id": "t9",
+      "quad": "Threat",
+      "name": "Content Quality Issues",
+      "phrase": "quality, buffering, unavailable, content, missing, shows, movies, availability, access, removed",
+      "mentions": 1263,
+      "avgRating": 1.7,
+      "trend": "STABLE",
+      "prio": "LOW",
+      "insight": "Users complain about insufficient content and poor quality streaming.",
+      "quotes": [
+        [
+          1,
+          "garbage content, not user friendly, going back to pirating netflix content, i regret ever trying to pay legitimately",
+          "Mar 2024"
+        ],
+        [
+          1,
+          "you are legacy streaming service and don't have good enough movies shows to make it so inconvenient find something to watch",
+          "Apr 2023"
+        ],
+        [
+          1,
+          "whatever convenience streaming offers, netflix is trying their best to get rid of",
+          "Mar 2024"
+        ],
+        [
+          1,
+          "i can't watch my movies of even my favorite series , i will never think about putting my money ever again in any subscription of this service",
+          "Jan 2023"
+        ],
+        [
+          1,
+          "highly disappointed by the service of netflix my subscription ended within 12 days",
+          "Feb 2022"
+        ],
+        [
+          1,
+          "netflix where content goes to die",
+          "Jan 2026"
+        ]
+      ]
+    },
+    {
+      "id": "t10",
+      "quad": "Threat",
+      "name": "Show Cancellations And Removals",
+      "phrase": "discontinued, shows, seasons, unavailable, missing",
+      "mentions": 1132,
+      "avgRating": 2.1,
+      "trend": "FALLING",
+      "prio": "LOW",
+      "insight": "Customers complain about favorite shows being canceled or removed from Netflix.",
+      "quotes": [
+        [
+          5,
+          "i love netflix, but please stop getting rid of shows, i miss some shows that are now gone",
+          "Dec 2024"
+        ],
+        [
+          1,
+          "it's simply not worth it anymore, better search for the shows that you like on the internet",
+          "Dec 2021"
+        ],
+        [
+          1,
+          "i was going to renew my subscription again until i found out they are removing seasons of shows and have episodes missing of other shows",
+          "May 2024"
+        ],
+        [
+          3,
+          "my favorite shows are gone and i can't watch them again",
+          "Jun 2020"
+        ],
+        [
+          4,
+          "most of my favorite shows have been removed off netflix now, which isn't the coolest",
+          "Apr 2022"
+        ],
+        [
+          1,
+          "most shows people want are either cancelled or not no there at all",
+          "May 2023"
+        ]
+      ]
+    },
+    {
+      "id": "w1",
+      "quad": "Weakness",
+      "name": "App Stability Issues",
+      "phrase": "not working, bugs, freezing",
+      "mentions": 11713,
+      "avgRating": 1.6,
+      "trend": "RISING",
+      "prio": "HIGH",
+      "insight": "Users frequently report the app crashing and requiring frequent troubleshooting.",
+      "quotes": [
+        [
+          1,
+          "the app keeps having issues, one after another",
+          "Mar 2025"
+        ],
+        [
+          1,
+          "the app keeps not working",
+          "Apr 2020"
+        ],
+        [
+          1,
+          "doesn't work properly and need to troubleshoot everytime atleast 3 to 4 times every time while using the app",
+          "Dec 2024"
+        ],
+        [
+          1,
+          "the app seems to stop working",
+          "Sep 2021"
+        ],
+        [
+          2,
+          "recently this app not responding properly",
+          "Dec 2023"
+        ],
+        [
+          1,
+          "app is super buggy or something, freezes all the time",
+          "Feb 2025"
+        ]
+      ]
+    },
+    {
+      "id": "w2",
+      "quad": "Weakness",
+      "name": "Streaming Issues And Buffering",
+      "phrase": "buffering, lagging, pauses, stuck, blank screen",
+      "mentions": 9710,
+      "avgRating": 1.8,
+      "trend": "STABLE",
+      "prio": "HIGH",
+      "insight": "Customers report frequent buffering, freezing, and abrupt stopping during video playback.",
+      "quotes": [
+        [
+          1,
+          "there is an issue i'm having that streaming a film or show will have the frames freeze",
+          "Nov 2021"
+        ],
+        [
+          3,
+          "i have been facing some streaming issue lately",
+          "Apr 2024"
+        ],
+        [
+          1,
+          "half the time, the shows dont load, and if you're halfway through a video and pause it",
+          "Dec 2024"
+        ],
+        [
+          2,
+          "videos played seem to be butchered as if its having a hard time buffering yet youtube and hulu work just fine",
+          "Dec 2021"
+        ],
+        [
+          3,
+          "now it just starts buffering when i start a series and nothing can be watched please fix",
+          "Sep 2025"
+        ],
+        [
+          2,
+          "streaming will buffer and stop abruptly",
+          "Sep 2021"
+        ]
+      ]
+    },
+    {
+      "id": "w3",
+      "quad": "Weakness",
+      "name": "Limited Movie Selection",
+      "phrase": "movies, unavailable, region",
+      "mentions": 6974,
+      "avgRating": 2.2,
+      "trend": "STABLE",
+      "prio": "HIGH",
+      "insight": "Users complain that many desired movies are unavailable.",
+      "quotes": [
+        [
+          3,
+          "not all the movies are available",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "this app and service of netflix is lack of movies",
+          "Apr 2020"
+        ],
+        [
+          2,
+          "sometimes the movies is not even on netflix",
+          "Jul 2021"
+        ],
+        [
+          5,
+          "not all movies are available",
+          "Mar 2025"
+        ],
+        [
+          3,
+          "most of the movies are not available",
+          "Apr 2024"
+        ],
+        [
+          1,
+          "not all good movies are available",
+          "Feb 2021"
+        ]
+      ]
+    },
+    {
+      "id": "w4",
+      "quad": "Weakness",
+      "name": "Download Issues",
+      "phrase": "download, unable to download, downloaded movies",
+      "mentions": 4625,
+      "avgRating": 1.8,
+      "trend": "STABLE",
+      "prio": "HIGH",
+      "insight": "Persistent problems downloading movies and shows, leading to frustration.",
+      "quotes": [
+        [
+          1,
+          "i'm not being able to download any movies",
+          "Aug 2022"
+        ],
+        [
+          1,
+          "i am encountering persistent problems with my netflix downloads, which is becoming quite frustrating",
+          "Feb 2024"
+        ],
+        [
+          4,
+          "just lately i'm having problem downloading some moviess or episodes",
+          "Sep 2020"
+        ],
+        [
+          1,
+          "whenever i download a series or a movie,i cant even able to open netflix and showing \"sorry you couldnt reach netflix network\" what the hell is going on",
+          "Mar 2020"
+        ],
+        [
+          1,
+          "really always having issue with downloaded movies",
+          "Apr 2021"
+        ],
+        [
+          1,
+          "movies still aren t downloading",
+          "Mar 2026"
+        ]
+      ]
+    },
+    {
+      "id": "w5",
+      "quad": "Weakness",
+      "name": "Login Issues",
+      "phrase": "incorrect password, sign up, login, account, sign in",
+      "mentions": 4267,
+      "avgRating": 1.6,
+      "trend": "STABLE",
+      "prio": "MEDIUM",
+      "insight": "Multiple customers struggle to sign in or log in to their accounts.",
+      "quotes": [
+        [
+          1,
+          "i have login issues, i can't login into the account",
+          "Apr 2024"
+        ],
+        [
+          1,
+          "can't log in keeps saying error and incorrect password",
+          "Jul 2020"
+        ],
+        [
+          2,
+          "sign in problem is very difficult",
+          "Nov 2023"
+        ],
+        [
+          1,
+          "when signing in, it won't allow to sign in",
+          "May 2025"
+        ],
+        [
+          1,
+          "worst in signing in and it replies by telling me incorrect password",
+          "Apr 2025"
+        ],
+        [
+          1,
+          "unable to sign in please help",
+          "Dec 2020"
+        ]
+      ]
+    },
+    {
+      "id": "w6",
+      "quad": "Weakness",
+      "name": "Watch History Issues",
+      "phrase": "no history, incorrect, missing",
+      "mentions": 2767,
+      "avgRating": 2.1,
+      "trend": "STABLE",
+      "prio": "MEDIUM",
+      "insight": "Users report problems with tracking and displaying watched content.",
+      "quotes": [
+        [
+          4,
+          "why all the sudden does it mix up my continue watching?",
+          "May 2024"
+        ],
+        [
+          1,
+          "it does not show what you've watched anymore",
+          "Feb 2020"
+        ],
+        [
+          3,
+          "it's been not showing some things that i've already watched as being watched",
+          "Feb 2020"
+        ],
+        [
+          4,
+          "recently the continue watching no longer works, it takes you back to the very beginning so you have to try and find where you stopped watching",
+          "Nov 2022"
+        ],
+        [
+          1,
+          "watch history clear is not working",
+          "Dec 2024"
+        ],
+        [
+          3,
+          "does not track watched series anymore",
+          "Aug 2020"
+        ]
+      ]
+    },
+    {
+      "id": "w7",
+      "quad": "Weakness",
+      "name": "App Update Issues",
+      "phrase": "update, broke, functionality",
+      "mentions": 2297,
+      "avgRating": 1.7,
+      "trend": "STABLE",
+      "prio": "MEDIUM",
+      "insight": "Users report significant problems after updates, including bugs and usability issues.",
+      "quotes": [
+        [
+          1,
+          "last update made the app have some bugs",
+          "Dec 2024"
+        ],
+        [
+          3,
+          "i'm unhappy with the app update",
+          "Jul 2020"
+        ],
+        [
+          3,
+          "updates to the app sucks",
+          "Feb 2022"
+        ],
+        [
+          4,
+          "whenever there's an update the app doesn't work",
+          "Oct 2022"
+        ],
+        [
+          3,
+          "the app was good until a recent update appears",
+          "Nov 2020"
+        ],
+        [
+          1,
+          "whats up with these new updates that completely break the apps",
+          "Dec 2022"
+        ]
+      ]
+    },
+    {
+      "id": "w8",
+      "quad": "Weakness",
+      "name": "Technical Errors",
+      "phrase": "app crashes, app errors, app glitches, app bugs, app malfunctions, app not working, app not responding",
+      "mentions": 2285,
+      "avgRating": 1.7,
+      "trend": "STABLE",
+      "prio": "MEDIUM",
+      "insight": "Reviews mention technical errors.",
+      "quotes": [
+        [
+          1,
+          "it's been a while since the last uptade of the app and a lot of errors",
+          "Feb 2024"
+        ],
+        [
+          3,
+          "please resolve issues with your app",
+          "Oct 2021"
+        ],
+        [
+          1,
+          "app have technical difficulties since long they are not fix it yet",
+          "Jan 2025"
+        ],
+        [
+          1,
+          "everytime there is a new problem with this app",
+          "Jan 2022"
+        ],
+        [
+          1,
+          "there is clearly a problem with the app",
+          "Jul 2020"
+        ],
+        [
+          2,
+          "whenever i access the app, errors come out and it is annoying",
+          "Apr 2021"
+        ]
+      ]
+    },
+    {
+      "id": "w9",
+      "quad": "Weakness",
+      "name": "App Glitches And UI Issues",
+      "phrase": "no way to side scroll, never loads, updating my review, have to uninstall and reinstall constantly, poor experience day by day",
+      "mentions": 2081,
+      "avgRating": 1.7,
+      "trend": "STABLE",
+      "prio": "LOW",
+      "insight": "Users report persistent bugs, a bad user interface, and overall poor functionality.",
+      "quotes": [
+        [
+          1,
+          "it is so broken that i cannot even write all my problems with it down in 500 charecters",
+          "Jan 2024"
+        ],
+        [
+          1,
+          "cannot explore easily, bad user interface, same content for months and months!!!!",
+          "Jun 2021"
+        ],
+        [
+          1,
+          "i've tried reinstalling but remain the same , before it was fine and now l wanted to rate it even zero stars",
+          "Oct 2020"
+        ],
+        [
+          1,
+          "ive updated and uninstalled and reinstalled and its been broken like this for weeks",
+          "Feb 2021"
+        ],
+        [
+          1,
+          "it's become completely unusable and extremely glitchy",
+          "Apr 2025"
+        ],
+        [
+          1,
+          "worst ui design , programmed to scam .. uninstalled , never downloading again",
+          "Feb 2024"
+        ]
+      ]
+    },
+    {
+      "id": "w10",
+      "quad": "Weakness",
+      "name": "Video Quality Issues",
+      "phrase": "quality doesn't match my subscription",
+      "mentions": 2060,
+      "avgRating": 1.6,
+      "trend": "RISING",
+      "prio": "LOW",
+      "insight": "Users report inconsistent and poor video quality despite their subscription.",
+      "quotes": [
+        [
+          3,
+          "the quality doesn't match my subscription",
+          "Oct 2026"
+        ],
+        [
+          1,
+          "i am not so satisfied after taking the subscription on netflix it is getting problem while browsing on mobile application it's getting loading on and so on i'm not going to take subscription next month you guys are not fixing it why should i suffering such kind of problem it's really bad experience",
+          "Mar 2025"
+        ],
+        [
+          1,
+          "bad experience so far, can't watch anything for two weeks now, videos stuck on \"loading\" , subscription is paid and with good wifi and data... can't seem to find a solution maybe if anyone can help otherwise bad experience so far",
+          "Apr 2024"
+        ],
+        [
+          3,
+          "sometimes the quality is off even if the subscription is at premium",
+          "Oct 2020"
+        ],
+        [
+          1,
+          "what's happen netflix you're poor in service and quality so disappointing",
+          "Jul 2023"
+        ],
+        [
+          1,
+          "edit after getting subscription and watching the video quality is very bad",
+          "Jul 2026"
+        ]
+      ]
+    },
+    {
+      "id": "w11",
+      "quad": "Weakness",
+      "name": "Subtitle Issues",
+      "phrase": "latency, subtitles, audio",
+      "mentions": 2038,
+      "avgRating": 2.3,
+      "trend": "RISING",
+      "prio": "LOW",
+      "insight": "Users report frequent problems with subtitle timing, synchronization, and availability.",
+      "quotes": [
+        [
+          4,
+          "the some subtitles issues are there",
+          "Jul 2022"
+        ],
+        [
+          1,
+          "i am really disappointed subtitles is very lag",
+          "Oct 2023"
+        ],
+        [
+          3,
+          "lately the subtitles are not coming in time there's been a latency with the subtitles",
+          "Sep 2026"
+        ],
+        [
+          2,
+          "there is serious issue with subtitles",
+          "Mar 2024"
+        ],
+        [
+          1,
+          "subtitles out of sync which is frustrating to watch and listen",
+          "Jul 2023"
+        ],
+        [
+          3,
+          "the subtitles are not same as the audio in most of the content",
+          "Apr 2020"
+        ]
+      ]
+    },
+    {
+      "id": "w12",
+      "quad": "Weakness",
+      "name": "Show Availability",
+      "phrase": "availability, shows, movies",
+      "mentions": 1892,
+      "avgRating": 2.4,
+      "trend": "FALLING",
+      "prio": "LOW",
+      "insight": "Reviews mention show availability.",
+      "quotes": [
+        [
+          1,
+          "too much going on and too difficult to find shows",
+          "Dec 2022"
+        ],
+        [
+          1,
+          "the best shows are quickly canceled or just not available",
+          "Mar 2024"
+        ],
+        [
+          4,
+          "sometimes it never has the shows that you actually want",
+          "Apr 2021"
+        ],
+        [
+          3,
+          "there are some shows that they have taken away and put back numerous times",
+          "Aug 2021"
+        ],
+        [
+          1,
+          "very limited shows and movies",
+          "Aug 2022"
+        ],
+        [
+          1,
+          "the selection of shows leaves everything to be desired",
+          "Jun 2023"
+        ]
+      ]
+    }
+  ],
+  "summary": {
+    "Strength": {
+      "topic_name": "User-Friendly Interface",
+      "mentions": 18414,
+      "trend": "FALLING",
+      "insight": "Customers praise its ease of use and vast content library.",
+      "avg_rating": 4.18
+    },
+    "Weakness": {
+      "topic_name": "App Stability Issues",
+      "mentions": 11713,
+      "trend": "RISING",
+      "insight": "Users frequently report the app crashing and requiring frequent troubleshooting.",
+      "avg_rating": 1.62
+    },
+    "Opportunity": {
+      "topic_name": "Limited Content Availability",
+      "mentions": 2392,
+      "trend": "FALLING",
+      "insight": "Users complain about missing movies and shows compared to other platforms.",
+      "avg_rating": 2.92
+    },
+    "Threat": {
+      "topic_name": "Auto-Renewing Subscriptions",
+      "mentions": 5213,
+      "trend": "RISING",
+      "insight": "Customers repeatedly charged for subscriptions they did not authorize.",
+      "avg_rating": 1.58
+    }
+  },
+  "momentum": {
+    "rising": [
+      {
+        "swot": "Threat",
+        "topic_name": "Household Subscription Issues",
+        "mentions": 13,
+        "change_pp": 3.9,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "More Movie Options",
+        "mentions": 34,
+        "change_pp": 3.1,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Strength",
+        "topic_name": "Classic Series Rewatch",
+        "mentions": 76,
+        "change_pp": 2.77,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Threat",
+        "topic_name": "Subscription Cancellation Issues",
+        "mentions": 23,
+        "change_pp": 2.72,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Threat",
+        "topic_name": "Show Cancellations With Cliffhangers",
+        "mentions": 10,
+        "change_pp": 2.13,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Strength",
+        "topic_name": "Quality Movies",
+        "mentions": 55,
+        "change_pp": 2.09,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Threat",
+        "topic_name": "Auto-Renewing Subscriptions",
+        "mentions": 37,
+        "change_pp": 1.78,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "Watch Later Improvements",
+        "mentions": 7,
+        "change_pp": 1.66,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "Classic And Old Movie Requests",
+        "mentions": 10,
+        "change_pp": 1.6,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Weakness",
+        "topic_name": "Subtitle Issues",
+        "mentions": 17,
+        "change_pp": 1.56,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Weakness",
+        "topic_name": "App Stability Issues",
+        "mentions": 30,
+        "change_pp": 1.53,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Weakness",
+        "topic_name": "Video Quality Issues",
+        "mentions": 12,
+        "change_pp": 1.53,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "Missing Anime Seasons",
+        "mentions": 5,
+        "change_pp": 1.51,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "List Organization",
+        "mentions": 5,
+        "change_pp": 1.51,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Threat",
+        "topic_name": "App Quality Deterioration",
+        "mentions": 10,
+        "change_pp": 1.3,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "Regional Content Restrictions",
+        "mentions": 6,
+        "change_pp": 1.3,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "Streaming Quality Control",
+        "mentions": 5,
+        "change_pp": 1.22,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "Watch List Categorization",
+        "mentions": 5,
+        "change_pp": 1.22,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Strength",
+        "topic_name": "Great Comedy",
+        "mentions": 25,
+        "change_pp": 1.19,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "International TV Shows",
+        "mentions": 8,
+        "change_pp": 1.16,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Weakness",
+        "topic_name": "Account Sharing Restrictions",
+        "mentions": 6,
+        "change_pp": 1.07,
+        "trend": "RISING"
+      },
+      {
+        "swot": "Strength",
+        "topic_name": "Inspiring Content",
+        "mentions": 21,
+        "change_pp": 1.01,
+        "trend": "RISING"
+      }
+    ],
+    "falling": [
+      {
+        "swot": "Weakness",
+        "topic_name": "Cast Functionality",
+        "mentions": 5,
+        "change_pp": -6.18,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Strength",
+        "topic_name": "User-Friendly Interface",
+        "mentions": 166,
+        "change_pp": -3.36,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "Limited Content Availability",
+        "mentions": 13,
+        "change_pp": -3.3,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Strength",
+        "topic_name": "Movie & Show Variety",
+        "mentions": 39,
+        "change_pp": -2.76,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "Anime Content Request",
+        "mentions": 3,
+        "change_pp": -2.62,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Threat",
+        "topic_name": "Content Quality Decline",
+        "mentions": 16,
+        "change_pp": -2.61,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Strength",
+        "topic_name": "Streaming Quality",
+        "mentions": 30,
+        "change_pp": -2.32,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Threat",
+        "topic_name": "Poor Customer Service",
+        "mentions": 2,
+        "change_pp": -2.23,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "Subtitle Language Options",
+        "mentions": 3,
+        "change_pp": -1.77,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "Missing Shows and Movies",
+        "mentions": 22,
+        "change_pp": -1.77,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "Movie And TV Update Requests",
+        "mentions": 4,
+        "change_pp": -1.69,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Weakness",
+        "topic_name": "Missing And Unavailable Content",
+        "mentions": 5,
+        "change_pp": -1.58,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Weakness",
+        "topic_name": "Ad-Infested Streaming",
+        "mentions": 10,
+        "change_pp": -1.56,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Threat",
+        "topic_name": "Ad-Supported Premium Complaints",
+        "mentions": 10,
+        "change_pp": -1.46,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Threat",
+        "topic_name": "Show Cancellations And Removals",
+        "mentions": 4,
+        "change_pp": -1.41,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "Game Availability",
+        "mentions": 2,
+        "change_pp": -1.27,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Threat",
+        "topic_name": "Account Management Issues",
+        "mentions": 1,
+        "change_pp": -1.25,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Weakness",
+        "topic_name": "Show Availability",
+        "mentions": 9,
+        "change_pp": -1.2,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Weakness",
+        "topic_name": "Payment Issues Persist",
+        "mentions": 1,
+        "change_pp": -1.16,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "Upcoming Content",
+        "mentions": 0,
+        "change_pp": -1.14,
+        "trend": "FALLING"
+      },
+      {
+        "swot": "Opportunity",
+        "topic_name": "Video Quality Options",
+        "mentions": 1,
+        "change_pp": -1.06,
+        "trend": "FALLING"
+      }
+    ]
+  },
+  "heatmap": {
+    "Strength": [
+      9,
+      14,
+      20,
+      35,
+      68
+    ],
+    "Weakness": [
+      58,
+      60,
+      52,
+      34,
+      13
+    ],
+    "Opportunity": [
+      6,
+      10,
+      17,
+      24,
+      14
+    ],
+    "Threat": [
+      26,
+      16,
+      11,
+      8,
+      5
+    ]
+  },
+  "ratingCounts": [
+    55507,
+    11383,
+    12250,
+    14351,
+    48983
+  ],
+  "trend": {
+    "Strength": [
+      31.4,
+      26.0,
+      24.9,
+      25.8,
+      26.2,
+      26.0,
+      27.6,
+      21.0,
+      20.9,
+      18.6,
+      22.2,
+      19.7,
+      17.6,
+      20.4,
+      22.0,
+      20.6,
+      22.0,
+      25.3,
+      24.6,
+      26.2,
+      29.1,
+      30.1,
+      46.8
+    ],
+    "Weakness": [
+      42.8,
+      51.2,
+      52.8,
+      48.5,
+      46.8,
+      44.5,
+      47.6,
+      54.5,
+      45.5,
+      44.2,
+      45.1,
+      46.3,
+      46.6,
+      46.5,
+      43.8,
+      47.5,
+      46.0,
+      44.0,
+      43.7,
+      41.8,
+      41.5,
+      37.7,
+      26.1
+    ],
+    "Opportunity": [
+      13.8,
+      11.2,
+      11.3,
+      11.3,
+      11.2,
+      10.6,
+      11.7,
+      10.7,
+      10.0,
+      9.5,
+      9.8,
+      10.5,
+      10.0,
+      9.5,
+      11.1,
+      9.7,
+      9.9,
+      10.3,
+      9.0,
+      10.3,
+      9.2,
+      8.8,
+      11.7
+    ],
+    "Threat": [
+      12.0,
+      11.7,
+      11.0,
+      14.3,
+      15.9,
+      18.8,
+      13.1,
+      13.9,
+      23.7,
+      27.7,
+      22.8,
+      23.6,
+      25.7,
+      23.6,
+      23.2,
+      22.2,
+      22.1,
+      20.3,
+      22.6,
+      21.6,
+      20.2,
+      23.3,
+      15.4
+    ]
+  },
+  "trendQuarters": [
+    "2021Q1",
+    "2021Q2",
+    "2021Q3",
+    "2021Q4",
+    "2022Q1",
+    "2022Q2",
+    "2022Q3",
+    "2022Q4",
+    "2023Q1",
+    "2023Q2",
+    "2023Q3",
+    "2023Q4",
+    "2024Q1",
+    "2024Q2",
+    "2024Q3",
+    "2024Q4",
+    "2025Q1",
+    "2025Q2",
+    "2025Q3",
+    "2025Q4",
+    "2026Q1",
+    "2026Q2",
+    "2026Q3"
+  ],
+  "volume": {
+    "counts": [
+      5.7,
+      8.3,
+      7.8,
+      6.8,
+      5.5,
+      4.7,
+      4.0,
+      3.5,
+      4.0,
+      3.7,
+      3.9,
+      3.4,
+      3.0,
+      3.2,
+      2.8,
+      3.8,
+      8.0,
+      9.6,
+      2.1,
+      7.8,
+      9.3,
+      6.1,
+      1.4,
+      4.3,
+      4.2,
+      4.1,
+      8.1
+    ],
+    "reviewCounts": [
+      5669,
+      8270,
+      7818,
+      6812,
+      5480,
+      4708,
+      4005,
+      3544,
+      4020,
+      3742,
+      3914,
+      3449,
+      2989,
+      3208,
+      2815,
+      3841,
+      8043,
+      9601,
+      2061,
+      7849,
+      9328,
+      6098,
+      1432,
+      4265,
+      4221,
+      4142,
+      8128
+    ],
+    "quarters": [
+      "2020Q1",
+      "2020Q2",
+      "2020Q3",
+      "2020Q4",
+      "2021Q1",
+      "2021Q2",
+      "2021Q3",
+      "2021Q4",
+      "2022Q1",
+      "2022Q2",
+      "2022Q3",
+      "2022Q4",
+      "2023Q1",
+      "2023Q2",
+      "2023Q3",
+      "2023Q4",
+      "2024Q1",
+      "2024Q2",
+      "2024Q3",
+      "2024Q4",
+      "2025Q1",
+      "2025Q2",
+      "2025Q3",
+      "2025Q4",
+      "2026Q1",
+      "2026Q2",
+      "2026Q3"
+    ],
+    "unit": "thousands_of_reviews"
+  }
+}
